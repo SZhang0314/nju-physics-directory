@@ -1,0 +1,474 @@
+[
+  {
+    "id": "nju-方成-0233",
+    "name": "方成",
+    "title": "中国科学院院士",
+    "research_directions": [
+      "太阳物理",
+      "太阳活动区物理",
+      "耀斑大气演化与动力学模型",
+      "太阳大气低层磁重联"
+    ],
+    "summary": "方成，1938年生，南京大学天文系毕业，1995年当选中国科学院院士，2005年当选发展中国家科学院院士。主要研究方向为太阳物理，主持设计研制了我国第一座太阳塔并创建太阳塔实验室，在耀斑大气演化、动力学模型与谱线不对称性等方面取得重要成果。",
+    "email": "fangc@nju.edu.cn"
+  },
+  {
+    "id": "nju-曲钦岳-0234",
+    "name": "曲钦岳",
+    "title": "中国科学院院士",
+    "research_directions": [
+      "高能天体物理",
+      "伽玛射线源",
+      "脉冲星和中子星",
+      "超新星遗迹"
+    ],
+    "summary": "曲钦岳，1935年生，1957年毕业于南京大学数学天文系，1980年当选中国科学院学部委员（院士），1984-1997年任南京大学校长。长期从事高能天体物理研究，主要研究伽玛射线源、脉冲星和中子星、超新星遗迹等，是我国高能天体物理研究的先驱者之一。",
+    "email": "quqing@nju.edu.cn"
+  },
+  {
+    "id": "nju-苏定强-0235",
+    "name": "苏定强",
+    "title": "中国科学院院士",
+    "research_directions": [
+      "天文望远镜光学",
+      "大望远镜光学系统",
+      "主动光学",
+      "LAMOST方案"
+    ],
+    "summary": "苏定强，1936年生，1959年毕业于南京大学天文系，1991年当选中国科学院学部委员（院士），曾任中国天文学会理事长、IAU第9委员会主席。主要研究领域为“大望远镜”，在望远镜光学研究中提出多项新思想和光学系统，并与王绶琯共同提出LAMOST初步方案。",
+    "email": "dqsu@nju.edu.cn"
+  },
+  {
+    "id": "nju-孙义燧-0236",
+    "name": "孙义燧",
+    "title": "中国科学院院士",
+    "research_directions": [
+      "天体力学",
+      "非线性动力学",
+      "三体问题",
+      "哈密顿系统"
+    ],
+    "summary": "孙义燧，1958年毕业于南京大学天文系，1997年当选中国科学院院士，曾任南京大学研究生院院长。主要研究领域为天体力学和非线性动力学，在三维保体积映射不变环面、否定拟遍历猜测和Pesin猜测等方面取得重要成果。",
+    "email": "sunys@nju.edu.cn"
+  },
+  {
+    "id": "nju-陈鹏飞-0237",
+    "name": "陈鹏飞",
+    "title": "长江学者特聘教授",
+    "research_directions": [
+      "太阳物理",
+      "太阳耀斑",
+      "日冕物质抛射",
+      "磁流体力学数值模拟"
+    ],
+    "summary": "陈鹏飞，1972年生，1999年获南京大学天文系理学博士学位，2006年晋升教授，2010年获国家杰出青年基金。主要从事太阳物理研究，包括太阳耀斑、日冕物质抛射、暗条等活动现象，研究手段以磁流体力学数值模拟为主。",
+    "email": "chenpf@nju.edu.cn"
+  },
+  {
+    "id": "nju-陈阳-0238",
+    "name": "陈阳",
+    "title": "杰出青年",
+    "research_directions": [
+      "高能星际物理",
+      "超新星遗迹",
+      "星系际激波",
+      "高温高能气体多波段辐射"
+    ],
+    "summary": "陈阳，1965年生，1993年获南京大学理学博士学位，2001年受聘为南京大学天文系教授，2007年获国家杰出青年科学基金资助。研究方向为高能星际物理，着重于超新星遗迹及其它气体爆炸性运动以及星（系）际激波和高温高能气体的多波段辐射特性。",
+    "email": "yangochen@sina.com",
+    "homepage": "http://astronomy.nju.edu.cn/~ygchen/"
+  },
+  {
+    "id": "nju-陈燕梅-0239",
+    "name": "陈燕梅",
+    "title": "教授",
+    "research_directions": [
+      "活动星系核（AGN）",
+      "星系演化",
+      "黑洞的增长和演化",
+      "星系恒星形成历史"
+    ],
+    "summary": "陈燕梅，2009年获中国科学院高能物理研究所理学博士学位，现为南京大学天文与空间科学学院教授、博士生导师，2019年获国家自然科学基金优秀青年项目资助。主要从事活动星系核及星系演化的研究，以光学光谱数据分析见长，数据分析和理论研究相结合。",
+    "email": "chenym@nju.edu.cn"
+  },
+  {
+    "id": "nju-程鑫-0240",
+    "name": "程鑫",
+    "title": "至诚特聘教授",
+    "research_directions": [
+      "太阳爆发",
+      "磁重联物理",
+      "恒星磁活动",
+      "太阳/恒星爆发与磁重联"
+    ],
+    "summary": "程鑫，2012年获南京大学天文学博士学位，现为南京大学天文与空间科学学院至诚特聘教授，连续入选爱思唯尔中国高被引学者。主要研究方向为太阳爆发、磁重联物理、恒星磁活动等，主持国家青年科学基金A类（2025）等项目。",
+    "email": "xincheng@nju.edu.cn",
+    "publications": [
+      {"title": "Magnetic reconnection rates and energy release in a confined X-class flare", "venue": "ApJ", "year": "2020"},
+      {"title": "A solar-type stellar flare and associated coronal mass ejection", "venue": "ApJL", "year": "2024"},
+      {"title": "Magnetic reconnection and turbulence", "venue": "ApJ", "year": "2023"},
+      {"title": "Formation of magnetic flux ropes in the solar atmosphere", "venue": "ApJ", "year": "2015"}
+    ]
+  },
+  {
+    "id": "nju-戴子高-0241",
+    "name": "戴子高",
+    "title": "长江学者特聘教授, 二级教授",
+    "research_directions": [
+      "中子星",
+      "伽玛射线暴",
+      "快速射电暴",
+      "超亮超新星与宇宙学"
+    ],
+    "summary": "戴子高，1993年获南京大学天体物理专业博士学位，1999年起任南京大学教授，2002年入选长江学者特聘教授，2003年获国家自然科学二等奖（排名第一）。研究方向包括中子星、伽玛射线暴、快速射电暴、超亮超新星、宇宙学等，共发表SCI论文234篇。",
+    "email": "dzg@nju.edu.cn"
+  },
+  {
+    "id": "nju-丁明德-0242",
+    "name": "丁明德",
+    "title": "长江学者特聘教授",
+    "research_directions": [
+      "太阳活动多波段光谱观测",
+      "太阳活动物理机制",
+      "太阳大气辐射动力学",
+      "空间天气学"
+    ],
+    "summary": "丁明德，1966年生，1992年获南京大学理学博士学位，1999年评为教授及博士生导师，2000年获国家杰出青年科学基金。主要从事太阳活动的多波段光谱观测、物理机制、太阳大气辐射动力学、空间天气学等领域研究，已发表SCI论文160多篇。",
+    "email": "dmd@nju.edu.cn",
+    "homepage": "https://www.researchgate.net/profile/M-Ding-2/research"
+  },
+  {
+    "id": "nju-何建华-0243",
+    "name": "何建华",
+    "title": "教授 博士生导师",
+    "research_directions": [
+      "宇宙学",
+      "宇宙大尺度结构形成数值模拟",
+      "宇宙学星系巡天观测及数据分析",
+      "引力波数值模拟"
+    ],
+    "summary": "何建华，2011年获复旦大学理论物理博士学位，曾在意大利国家天文台和英国杜伦大学从事研究，2018年入职南京大学，2024年晋升教授。以独立PI身份创立南京大学《引力宇宙学课题组》，主要从事引力宇宙学前沿课题研究，包括宇宙微波背景辐射及宇宙大尺度结构形成。",
+    "email": "hejianhua@nju.edu.cn",
+    "publications": [
+      {"title": "Experimental constraints on the symmetron field with a magnetically levitated force sensor", "venue": "Nature Astronomy", "year": "2025"},
+      {"title": "No evidence for modifications of gravity from galaxy motions on cosmological scales", "venue": "Nature Astronomy", "year": "2018"},
+      {"title": "Experiments with levitated force sensor challenge theories of dark energy", "venue": "Nature Physics", "year": "2022"},
+      {"title": "Subhalo abundance matching in f(R) gravity", "venue": "Physical Review Letters", "year": "2016"}
+    ]
+  },
+  {
+    "id": "nju-侯锡云-0244",
+    "name": "侯锡云",
+    "title": "长江学者特聘教授",
+    "research_directions": [
+      "航天器轨道力学",
+      "太阳系小天体动力学",
+      "地月空间轨道理论",
+      "双小行星系统动力学"
+    ],
+    "summary": "侯锡云，1981年生，2008年获南京大学博士学位，2017年起任南京大学教授，2024年获聘教育部长江学者特聘教授。任南京大学空间环境与航天动力学研究所所长，主要研究航天器轨道力学和太阳系小天体动力学。",
+    "email": "houxiyun@nju.edu.cn",
+    "publications": [
+      {"title": "Precise orbit determination of Mars-crossing asteroids", "venue": "The Astronomical Journal", "year": "2024"},
+      {"title": "Stability of spatial orbits around Earth-Moon triangular libration points", "venue": "MNRAS", "year": "2024"},
+      {"title": "A perturbative treatment of the Yarkovsky-driven drifts in the 2:1 mean motion resonance", "venue": "Astronomy & Astrophysics", "year": "2024"},
+      {"title": "Measuring the orbit drift of near-Earth asteroids by the Yarkovsky effect", "venue": "The Astrophysical Journal", "year": "2023"}
+    ]
+  },
+  {
+    "id": "nju-顾秋生-0245",
+    "name": "顾秋生",
+    "title": "教授",
+    "research_directions": [
+      "近邻星系的冷气体和恒星形成",
+      "恒星形成的物理规律",
+      "近邻星系中心超大黑洞活动与反馈",
+      "星系核活动与星暴的关联"
+    ],
+    "summary": "顾秋生，1996年获南京大学天文学系博士学位，2003年晋升教授，2006年入选教育部“新世纪优秀人才计划”。主要研究近邻星系的冷气体和恒星形成、超大质量黑洞活动与反馈等，发表SCI科研论文170余篇。",
+    "email": "qsgu@nju.edu.cn",
+    "publications": [
+      {"title": "Black holes regulate cool gas accretion in massive galaxies", "venue": "Nature", "year": "2024"},
+      {"title": "Inefficient star formation in extremely metal poor galaxies", "venue": "Nature", "year": "2014"},
+      {"title": "Carbon monoxide in an extremely metal-poor galaxy", "venue": "Nature Communications", "year": "2016"},
+      {"title": "Strong spectral features from asymptotic giant branch stars in distant quiescent galaxies", "venue": "Nature Astronomy", "year": "2025"}
+    ]
+  },
+  {
+    "id": "nju-郭洋-0246",
+    "name": "郭洋",
+    "title": "教授",
+    "research_directions": [
+      "太阳物理",
+      "太阳磁场的观测和建模",
+      "数据驱动磁流体力学模拟磁绳爆发",
+      "太阳活动多波段观测及其物理机制"
+    ],
+    "summary": "郭洋，2011年博士毕业于南京大学天文系，2022年起任南京大学天文与空间科学学院教授、博士生导师，2021年入选国家青年人才计划。研究领域为太阳物理，主要包括太阳磁场的观测和建模、数据驱动磁流体力学模拟磁绳爆发等。",
+    "email": "guoyang@nju.edu.cn",
+    "homepage": "http://scholar.google.com.hk/citations?user=s9KR1ukAAAAJ&hl=en"
+  },
+  {
+    "id": "nju-黄永锋-0247",
+    "name": "黄永锋",
+    "title": "杰出青年",
+    "research_directions": [
+      "宇宙伽玛射线暴",
+      "中子星",
+      "脉冲星",
+      "快速射电暴"
+    ],
+    "summary": "黄永锋，1972年生，1999年获南京大学天文系博士学位并留校，现为教授、博士生导师，2006年度国家杰出青年科学基金获得者。主要从事高能天体物理尤其是宇宙伽玛射线暴、中子星、脉冲星、快速射电暴等的研究。",
+    "email": "hyf@nju.edu.cn"
+  },
+  {
+    "id": "nju-李川-0248",
+    "name": "李川",
+    "title": "教授",
+    "research_directions": [
+      "太阳物理",
+      "空间天气",
+      "太阳高能粒子",
+      "太阳活动与自组织临界过程"
+    ],
+    "summary": "李川，南京大学和巴黎十一大理学博士、伦敦大学学院博士后，现为教授、博士生导师。研究领域为太阳物理和空间天气，担任我国首颗太阳探测科学技术试验卫星（羲和号）科学与应用系统总设计师。",
+    "email": "lic@nju.edu.cn",
+    "homepage": "https://orcid.org/0000-0001-7693-4908",
+    "publications": [
+      {"title": "The Chinese Hα Solar Explorer (CHASE) mission: An overview", "venue": "Sci. China-Phys. Mech. Astron.", "year": "2022"},
+      {"title": "Height-dependent differential rotation of the solar atmosphere detected by CHASE", "venue": "Nature Astronomy", "year": "2024"},
+      {"title": "Chinese Hα Solar Explorer (CHASE) – a complementary space mission to the ASO-S", "venue": "Research in Astronomy and Astrophysics", "year": "2019"},
+      {"title": "Three-stage acceleration of solar energetic particles detected by Parker Solar Probe", "venue": "ApJ Letters", "year": "2024"}
+    ]
+  },
+  {
+    "id": "nju-黎健-0249",
+    "name": "黎健",
+    "title": "教授",
+    "research_directions": [
+      "太阳系第9行星",
+      "银河系流浪行星",
+      "机器学习在天体力学中的应用",
+      "太阳系小天体动力学"
+    ],
+    "summary": "黎健，1980年生，2008年获南京大学天文系博士学位，2024年起任南京大学天文与空间科学学院教授。研究领域包括太阳系第9行星、银河系流浪行星、机器学习在天体力学中的应用、太阳系小天体动力学、行星系统动力学及非线性天体力学。",
+    "email": "ljian@nju.edu.cn",
+    "publications": [
+      {"title": "Discovery and dynamics of a Sedna-like object with a perihelion of 66 au", "venue": "Nature Astronomy", "year": "2025"},
+      {"title": "A study of the high-inclination population in the Kuiper belt – I. The Plutinos", "venue": "MNRAS", "year": "2014"},
+      {"title": "Mean plane of the Kuiper belt beyond 50AU in the presence of Planet 9", "venue": "Astronomy & Astrophysics", "year": "2020"},
+      {"title": "Large-step neural network for learning the symplectic evolution from partitioned data", "venue": "MNRAS", "year": "2023"}
+    ]
+  },
+  {
+    "id": "nju-李向东-0250",
+    "name": "李向东",
+    "title": "长江学者特聘教授",
+    "research_directions": [
+      "高能天体物理",
+      "黑洞",
+      "中子星",
+      "X射线双星"
+    ],
+    "summary": "李向东，1995年获南京大学天文系理学博士学位，现为南京大学天文与空间科学学院教授、博士生导师，现代天文与天体物理教育部重点实验室主任，南京大学赵世良讲座教授，2000年获国家杰出青年科学基金。研究领域为高能天体物理，研究对象包括黑洞、中子星、超新星、X射线双星等。",
+    "email": "lixd@nju.edu.cn"
+  },
+  {
+    "id": "nju-李志远-0251",
+    "name": "李志远",
+    "title": "教授",
+    "research_directions": [
+      "星系物理",
+      "高能天体物理",
+      "空间天文技术"
+    ],
+    "summary": "李志远，1995-2002年就读于南京大学天文学系，2008年获美国麻萨诸塞大学天体物理博士学位，曾在哈佛-史密松天体物理中心和加州大学洛杉矶分校任职，2013年起任南京大学天文与空间科学学院教授、博士生导师，2022年起兼任苏州校区深空探测科学与技术研究院执行院长。先后获国家高层次海外青年人才、国家杰出青年基金等项目支持。",
+    "email": "lizy@nju.edu.cn"
+  },
+  {
+    "id": "nju-刘佳成-0252",
+    "name": "刘佳成",
+    "title": "教授",
+    "research_directions": [
+      "天体测量基本理论",
+      "天文参考系",
+      "地球自转模型",
+      "VLBI和空间天体测量数据应用"
+    ],
+    "summary": "刘佳成，2012年获南京大学理学博士学位，现为南京大学天文与空间科学学院教授、博士生导师，任中国天文学会天体测量专业委员会副主任。主要研究方向为天体测量基本理论、天文参考系、地球自转模型、VLBI和空间天体测量数据的应用等。",
+    "email": "jcliu@nju.edu.cn",
+    "homepage": "https://njuastrometry.github.io/en/"
+  },
+  {
+    "id": "nju-罗斌-0253",
+    "name": "罗斌",
+    "title": "教授",
+    "research_directions": [
+      "活动星系核",
+      "X射线天文学",
+      "超大质量黑洞的宇宙学分布及增长演化",
+      "超爱丁顿吸积超大质量黑洞物理"
+    ],
+    "summary": "罗斌，1981年生，2010年获美国宾州州立大学天文学博士学位，曾在哈佛-史密松天体物理中心和宾州州立大学从事博士后研究，2015年入职南京大学，现为教授、博士生导师。主要研究活动星系核与X射线天文学，在The Astrophysical Journal等期刊发表论文150余篇。",
+    "email": "bluo@nju.edu.cn"
+  },
+  {
+    "id": "nju-施勇-0254",
+    "name": "施勇",
+    "title": "教授",
+    "research_directions": [
+      "星系形成和演化",
+      "超大质量黑洞增长"
+    ],
+    "summary": "施勇，2003年本科毕业于北京大学地球物理系，2008年获美国亚利桑那大学天文系博士学位，曾在加州理工学院从事博士后研究，2013年入职南京大学，现为教授、博士生导师。2018年获国家杰出青年科学基金，2019年获腾讯“科学探索奖”。主要研究星系形成和演化、超大质量黑洞增长。"
+  },
+  {
+    "id": "nju-张彬彬-0255",
+    "name": "张彬彬",
+    "title": "教授",
+    "research_directions": [
+      "高能时域天体物理",
+      "伽马射线暴",
+      "快速射电暴",
+      "多信使天体物理"
+    ],
+    "summary": "张彬彬（Bin-Bin Zhang），美国内华达大学拉斯维加斯分校天文学博士，现为南京大学天文与空间科学学院教授，入选国家海外高层次青年人才计划等。主要研究高能时域与多信使天体物理，尤其关注伽马射线暴、快速射电暴与引力波电磁对应体，发表SCI论文150余篇。",
+    "email": "bbzhang@nju.edu.cn",
+    "publications": [
+      {"title": "Evidence for a brief appearance of gamma-ray periodicity after a compact star merger", "venue": "Nature Astronomy", "year": "2025"},
+      {"title": "A long-duration gamma-ray burst with a peculiar origin", "venue": "Nature", "year": "2022"},
+      {"title": "A peculiarly short-duration gamma-ray burst from massive star core-collapse", "venue": "Nature Astronomy", "year": "2021"},
+      {"title": "A peculiar low-luminosity short gamma-ray burst from a double neutron star merger progenitor", "venue": "Nature Communications", "year": "2018"}
+    ]
+  },
+  {
+    "id": "nju-邱科平-0256",
+    "name": "邱科平",
+    "title": "教授",
+    "research_directions": [
+      "恒星形成",
+      "尘埃偏振与星际磁场",
+      "中性氢巡天与银河系结构"
+    ],
+    "summary": "邱科平，2009年获南京大学天文系博士学位，曾在哈佛-史密松天体物理中心和德国马普射电天文研究所从事研究，2012年入职南京大学，现为教授、博士生导师。主要研究恒星形成、尘埃偏振与星际磁场、中性氢巡天与银河系结构，担任国家大科学工程FAST时间分配委员会主任。",
+    "email": "kpqiu@nju.edu.cn"
+  },
+  {
+    "id": "nju-王祥玉-0257",
+    "name": "王祥玉",
+    "title": "杰出青年",
+    "research_directions": [
+      "高能宇宙线",
+      "高能中微子",
+      "伽玛射线暴",
+      "粒子天体物理"
+    ],
+    "summary": "王祥玉，2001年获南京大学博士学位，现为南京大学天文与空间科学学院教授、博士生导师，2016年获国家杰出青年科学基金资助。主要从事高能宇宙线、高能中微子、伽玛射线暴等天体物理问题的研究，发表SCI论文100多篇。",
+    "email": "xywang@nju.edu.cn"
+  },
+  {
+    "id": "nju-王发印-0258",
+    "name": "王发印",
+    "title": "教授",
+    "research_directions": [
+      "高能时域天文",
+      "伽玛射线暴",
+      "快速射电暴",
+      "引力波电磁对应体与宇宙学"
+    ],
+    "summary": "王发印，2010年获南京大学天文系理学博士学位，2016年晋升教授，2014年获国家自然科学基金委优秀青年基金资助。主要从事高能时域天文和宇宙学研究，包括伽玛射线暴、快速射电暴、引力波电磁对应体及以暂现源为工具研究宇宙学。",
+    "email": "fayinwang@nju.edu.cn"
+  },
+  {
+    "id": "nju-王涛-0259",
+    "name": "王涛",
+    "title": "教授",
+    "research_directions": [
+      "星系形成与演化",
+      "星系团与大尺度结构",
+      "超大质量黑洞的增长与反馈"
+    ],
+    "summary": "王涛，2012年获南京大学天文与空间科学学院理学博士学位，2021年入职南京大学，现为教授、博士生导师。研究领域包括星系形成与演化、星系团与大尺度结构以及超大质量黑洞的增长与反馈，其成果获评“2024年中国科学十大进展”。",
+    "email": "taowang@nju.edu.cn"
+  },
+  {
+    "id": "nju-谢基伟-0260",
+    "name": "谢基伟",
+    "title": "教授",
+    "research_directions": [
+      "太阳系外行星的普查",
+      "系外行星形成和演化",
+      "行星系统动力学",
+      "银河系系外行星统计"
+    ],
+    "summary": "谢基伟，1984年生，2011年于南京大学获博士学位，现为南京大学天文与空间科学学院教授、副院长，中国天文学会行星专业委员会副主任。主要研究领域为太阳系外行星的普查、形成和演化，2013年获全国百篇优秀博士论文奖。",
+    "email": "jwxie@nju.edu.cn",
+    "publications": [
+      {"title": "Planets Across Space and Time (PAST). V. The evolution of hot Jupiters revealed by the age distribution of their host stars", "venue": "PNAS", "year": "2023"},
+      {"title": "Planets Across Space and Time (PAST). VI. Age dependence of the occurrence and architecture of ultra-short-period planet systems", "venue": "Nature Astronomy", "year": "2025"},
+      {"title": "Exoplanet orbital eccentricities derived from LAMOST-Kepler analysis", "venue": "PNAS", "year": "2016"},
+      {"title": "A power-law decay evolution scenario for polluted single white dwarfs", "venue": "Nature Astronomy", "year": "2019"}
+    ]
+  },
+  {
+    "id": "nju-周济林-0261",
+    "name": "周济林",
+    "title": "杰出青年",
+    "research_directions": [
+      "外行星系统探测、形成与动力学"
+    ],
+    "summary": "周济林，1969年生，1995年获南京大学天体力学专业博士学位后留校，2003年聘为教授，2009年获国家自然科学基金委杰出青年基金。从事的研究领域为外行星系统探测、形成与动力学，现任中国天文学会副理事长。",
+    "email": "zhoujl@nju.edu.cn"
+  },
+  {
+    "id": "nju-周礼勇-0262",
+    "name": "周礼勇",
+    "title": "教授",
+    "research_directions": [
+      "太阳系天体动力学",
+      "行星系统动力学",
+      "非线性天体力学",
+      "雅科夫斯基效应等非引力效应"
+    ],
+    "summary": "周礼勇，2000年获南京大学天文系博士学位，2000年起在南京大学工作，现为教授。主要研究方向为太阳系天体动力学、行星系统动力学、非线性天体力学，近年主要研究兴趣在行星特洛伊天体和海王星外天体动力学、雅科夫斯基效应等非引力效应。",
+    "email": "zhouly@nju.edu.cn",
+    "publications": [
+      {"title": "Episodic planetesimal disruptions triggered by dissipation of gas disk", "venue": "Nature Communications", "year": "2026"},
+      {"title": "Resonant chains in triple-planet systems", "venue": "Astronomy & Astrophysics", "year": "2024"},
+      {"title": "Secular structure of 1:2 and 1:3 mean motion resonances with Neptune", "venue": "Astronomy & Astrophysics", "year": "2024"},
+      {"title": "The diurnal Yarkovsky effect of irregularly shaped asteroids", "venue": "Astronomy & Astrophysics", "year": "2022"}
+    ]
+  },
+  {
+    "id": "nju-朱紫-0263",
+    "name": "朱紫",
+    "title": "教授",
+    "research_directions": [
+      "天体测量方法",
+      "天文参考系",
+      "银河系天文学"
+    ],
+    "summary": "朱紫，1959年生，1982年毕业于中国科学技术大学，1994年获博士学位，2002年起在南京大学天文系工作，现为教授、博导。长期从事天文参考系研究和银河系天文学研究工作，主要研究领域为天体测量方法、天文参考系和银河系天文学。",
+    "email": "zhuzi@nju.edu.cn"
+  },
+  {
+    "id": "nju-张智昱-0264",
+    "name": "张智昱",
+    "title": "教授",
+    "research_directions": [
+      "射电天文",
+      "星际介质物理",
+      "星系演化",
+      "天体化学与化学宇宙"
+    ],
+    "summary": "张智昱（Zhi-Yu Zhang），2014年获中国科学院大学/紫金山天文台理学博士学位，曾任职于欧洲南方天文台和英国爱丁堡大学，2019年入职南京大学，现为教授、博士生导师。主要从事射电天文、星际介质物理性质以及星系演化的观测和理论研究，即元素演化、星系演化和天体化学结合的“化学宇宙”。",
+    "email": "zzhang@nju.edu.cn",
+    "homepage": "https://www.thechemicaluniverse.space/",
+    "publications": [
+      {"title": "Stellar Populations Dominated by Massive Stars in Dusty Starburst Galaxies", "venue": "Nature", "year": "2018"},
+      {"title": "Top-heavy IMF in High-z main-sequence Galaxies", "venue": "The Astrophysical Journal", "year": "2024"},
+      {"title": "Virial Parameter in Molecular Clouds of Metal-poor Galaxies", "venue": "Nature Astronomy", "year": "2024"},
+      {"title": "Radio Jet in the gravitationally lensed quasar Cloverleaf", "venue": "MNRAS", "year": "2023"}
+    ]
+  }
+]

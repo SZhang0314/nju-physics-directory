@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+data/raw/profiles/
+data/raw/eng_extracted.json
+data/raw/eng_prof_raw.json
+data/raw/eng_prof2.json
+data/raw/_*.txt
+data/raw/eng_pages/
+data/raw/profiles/
+scripts/enrich_eng.py
+scripts/enrich_eng2.py
+scripts/extract_eng.py
+scripts/fetch_eng.py
+scripts/final_eng.py
+scripts/parse_eng.py
+scripts/parse_profiles.py

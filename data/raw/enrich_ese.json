@@ -1,0 +1,1094 @@
+[
+  {
+    "id": "nju-吴培亨-0382",
+    "name": "吴培亨",
+    "title": "院士",
+    "research_directions": ["超导电子学", "超导电子器件高频(微波到太赫兹波段)应用", "超导混频器与高灵敏接收机"],
+    "summary": "超导电子学家，南京大学电子工程系院士，著名超导电子学专家，现任南京大学超导电子学研究所所长。2005年当选中国科学院院士。长期从事超导电子学研究，尤长于超导电子器件的高频(微波到太赫兹波段)应用。",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=555528"]
+  },
+  {
+    "id": "nju-郑有炓-0407",
+    "name": "郑有炓",
+    "title": "中国科学院院士",
+    "research_directions": ["半导体异质结构材料、器件及物理", "III族氮化物异质结构", "锗硅异质结构", "硅基纳米结构材料及器件应用"],
+    "summary": "中国科学院院士，1957年毕业于南京大学物理系，长期在南京大学任教。长期致力于半导体异质结构材料、器件及物理研究，在III族氮化物、锗硅异质结构和硅基纳米结构材料及器件应用方面取得系列创新成果。",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=555527"]
+  },
+  {
+    "id": "nju-郑海荣-0406",
+    "name": "郑海荣",
+    "title": "中国科学院院士、南京大学党委常委、常务副校长",
+    "research_directions": ["医学成像与医疗仪器系统", "声学/磁学生物物理", "生物通讯、成像信息处理、脑机接口"],
+    "summary": "中国科学院院士，南京大学党委常委、副校长，中国科学院深圳先进技术研究院研究员，主要研究医学成像与医疗仪器系统、声学/磁学生物物理。主持完成我国首型号高场超导磁共振成像装备研制，获国家科技进步一等奖。",
+    "email": "Hr.zheng@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=771502"]
+  },
+  {
+    "id": "nju-施毅-0358",
+    "name": "施毅",
+    "title": "教授、中国科学院院士",
+    "research_directions": ["微纳电子、光电子材料与器件", "纳米结构材料及应用", "量子信息技术"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师、微电子学院院长，2025年11月当选中国科学院院士。长期从事微电子科学与技术基础研究，在半导体表界面物性调控、材料和器件方面作出开创性和系统性贡献，发表SCI论文700余篇。",
+    "email": "yshi@nju.edu.cn",
+    "publications": [
+      {"title": "Approaching the Quantum Limit in Two-Dimensional Semiconductor Contacts", "venue": "Nature", "year": 2023},
+      {"title": "Observation of Chiral and Slow Plasmons in Twisted Bilayer Graphene", "venue": "Nature", "year": 2022},
+      {"title": "Uniform nucleation and epitaxy of bi-layer molybdenum disulfide on sapphire", "venue": "Nature", "year": 2022},
+      {"title": "Three-Dimensional Monolithic Micro-LED Display Driven by Atomically Thin Transistor Matrix", "venue": "Nature Nanotechnology", "year": 2021}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465190"]
+  },
+  {
+    "id": "nju-柏业超-0295",
+    "name": "柏业超",
+    "title": "教授",
+    "research_directions": ["目标检测与参数估计", "信息几何", "阵列信号处理", "随机矩阵理论", "机器学习"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。2005年和2010年在南京大学分别获得学士和博士学位。主要从事目标检测与参数估计、多维信号处理、信息融合等研究。",
+    "email": "ychbai@nju.edu.cn",
+    "publications": [
+      {"title": "Floating Target Detection in Sea Clutter Based on Likelihood Ratio Test on Hermitian Positive Definite Manifold", "venue": "IEEE Transactions on Aerospace and Electronic Systems", "year": 2026},
+      {"title": "Multitarget Parameter Estimation for Cognitive Radar Based on RIS", "venue": "IEEE Transactions on Instrumentation and Measurement", "year": 2026},
+      {"title": "Compact Meta-differentiator for Achieving Isotropically High-Contrast Ultrasonic Imaging", "venue": "Nature Communications", "year": 2024},
+      {"title": "An Improved Subspace Weighting Method Using Random Matrix Theory", "venue": "Frontiers of Information Technology & Electronic Engineering", "year": 2020}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465301"]
+  },
+  {
+    "id": "nju-曹汛-0299",
+    "name": "曹汛",
+    "title": "教授",
+    "research_directions": ["图像和视频处理", "计算摄像学", "光谱视频成像"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师，主要从事图像和视频处理、计算摄像学方向的研究。提出了棱镜-掩模调制的光谱视频成像方法(PMVIS)并研制了系列光谱相机及装置。曾获国家技术发明奖一等奖。",
+    "email": "caoxun@nju.edu.cn",
+    "homepage": "http://cite.nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465292"]
+  },
+  {
+    "id": "nju-陈敦军-0300",
+    "name": "陈敦军",
+    "title": "教授",
+    "research_directions": ["GaN基光电子探测器/传感器结构设计与器件工艺", "GaN基异质结构设计与表征", "GaN基电力电子器件及电源模块", "器件物理与可靠性", "新型低维半导体结构与器件"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。1987-2001年就读于西北工业大学材料科学与工程系并获博士学位。主要承担国家自然科学基金面上/重点、国家863、973、重点研发计划等项目课题研究，发表SCI论文200余篇。",
+    "email": "djchen@nju.edu.cn",
+    "publications": [
+      {"title": "Gate reliability of p-GaN gate AlGaN/GaN high electron mobility transistors", "venue": "IEEE Electron Device Letters", "year": 2019},
+      {"title": "High-gain AlGaN solar-blind avalanche photodiodes", "venue": "IEEE Electron Device Letters", "year": 2014},
+      {"title": "Ultrasensitive detection of phosphate using ion-imprinted polymer functionalized AlInN/GaN high electron mobility transistors", "venue": "IEEE Electron Device Letters", "year": 2016},
+      {"title": "AlGaN ultraviolet Avalanche photodiodes based on a triple-mesa structure", "venue": "Applied Physics Letters", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465290"]
+  },
+  {
+    "id": "nju-陈健-0302",
+    "name": "陈健",
+    "title": "教授",
+    "research_directions": ["超导电子器件及其物性", "超导量子信息技术", "太赫兹技术及其应用"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师，2002年教育部第五届长江学者奖励计划特聘教授。1986年在南京大学无线电物理专业获硕士学位后留校任教，1992年于日本长冈技术科学大学获博士学位。",
+    "email": "chenj63@nju.edu.cn",
+    "publications": [
+      {"title": "A dual-polarization mid-infrared kinetic inductance detector with photon-noise-limited performance", "venue": "Applied Physics Letters", "year": 2025},
+      {"title": "Readout-efficient superconducting nanowire single-photon imager with orthogonal time-amplitude multiplexing by hotspot quantization", "venue": "Nature Photonics", "year": 2022},
+      {"title": "Hybrid α-Ta/β-Ta lumped element kinetic inductance detectors with photon noise limited sensitivity and stability", "venue": "Applied Physics Letters", "year": 2024}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465288"]
+  },
+  {
+    "id": "nju-陈乐-0304",
+    "name": "陈乐",
+    "title": "教授",
+    "research_directions": ["吸波材料设计及其工程化应用", "多频谱兼容功能材料", "目标RCS调控技术"],
+    "summary": "南京大学电子科学与工程学院教授。长期从事电磁功能材料、电磁波调控与目标散射特性研究，重点围绕吸波材料与构件的散射机理开展基础与工程化研究，主持多项国防相关科研项目。",
+    "email": "chenle26@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=539803"]
+  },
+  {
+    "id": "nju-陈鹏-0305",
+    "name": "陈鹏",
+    "title": "教授",
+    "research_directions": ["半导体微纳结构的半导体光电子学与等离激元光子学", "氮化物半导体的固体电子学与功率电子器件", "Si衬底上的氮化物半导体材料与光电子学", "半导体固态照明技术", "GaN自支撑衬底同质外延技术及其器件"],
+    "summary": "南京大学电子科学与工程学院教授。2000年12月在南京大学物理系获理学博士学位，长期从事半导体光电子学研究，是2015年国家\"863\"主题项目\"第三代半导体器件与评价技术\"首席专家。",
+    "email": "pchen@nju.edu.cn",
+    "publications": [
+      {"title": "GaN microdisks with a single porous optical confinement layer for whispering gallery mode lasing", "venue": "Applied Physics Letters", "year": 2024},
+      {"title": "Electron-Beam-Driven III-Nitride Plasmonic Nanolasers in the Deep-UV and Visible Region", "venue": "Small", "year": 2020},
+      {"title": "High-Performance Black Phosphorus Field-Effect Transistors with Long-Term Air Stability", "venue": "Nano Letters", "year": 2019}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465287"]
+  },
+  {
+    "id": "nju-陈平-0306",
+    "name": "陈平",
+    "title": "教授",
+    "research_directions": ["人工电磁材料理论与应用", "电磁功能材料设计与表征", "新型微波器件与天线"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授、博士生导师。2007年6月毕业于南京大学无线电物理专业获理学博士学位。主要从电磁场与微波技术、人工电磁材料理论与应用等方面研究，发表学术论文90多篇。",
+    "email": "chenping@nju.edu.cn",
+    "publications": [
+      {"title": "Chainmail-inspired conformable and switchable microwave metamaterial absorber", "venue": "Nature Communications", "year": 2026},
+      {"title": "Anionic high-entropy doping engineering for electromagnetic wave absorption", "venue": "Nature Communications", "year": 2025},
+      {"title": "A review on electromagnetic wave absorber based on spoof surface plasmon polariton metamaterials", "venue": "Journal of Applied Physics", "year": 2026}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465285"]
+  },
+  {
+    "id": "nju-陈相宁-0307",
+    "name": "陈相宁",
+    "title": "副教授",
+    "research_directions": ["无线通信", "接入技术", "网络技术", "信息安全"],
+    "summary": "南京大学电子科学与工程学院副教授。分别于1989年、1992年、2001年在南京大学、电子科技大学、东南大学取得理学士、工学硕士、博士学位。",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465284"]
+  },
+  {
+    "id": "nju-陈颖-0308",
+    "name": "陈颖",
+    "title": "副教授",
+    "research_directions": ["生物医学信号处理", "图像处理", "深度学习"],
+    "summary": "南京大学电子科学与工程学院副教授。陈颖博士于1998年获得南京大学电路与系统本科学位，2003年获得声学博士学位，主要研究集中于生物医学信号处理和图像处理。",
+    "email": "yingchen@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465282"]
+  },
+  {
+    "id": "nju-都思丹-0309",
+    "name": "都思丹",
+    "title": "教授",
+    "research_directions": ["图像处理与控制", "机器学习与视觉AI"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授，图像工程实验室主任，电路与系统学科带头人。1997年毕业于南京大学获博士学位。主持承担自然科学基金、国际合作重大项目及江苏省科技支撑计划等项目。",
+    "email": "coff128@nju.edu.cn",
+    "publications": [
+      {"title": "HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion", "venue": "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)", "year": 2025},
+      {"title": "Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models", "venue": "AAAI", "year": 2025},
+      {"title": "Depth-based Removal of the Thermal Reflection with the Light Field Theory", "venue": "Journal of the Optical Society of America A", "year": 2021}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465280"]
+  },
+  {
+    "id": "nju-杜力-0310",
+    "name": "杜力",
+    "title": "教授",
+    "research_directions": ["低功耗AI处理器、系统与编译器设计", "存算芯片设计", "AI算法轻量化与部署优化"],
+    "summary": "南京大学教授，集成电路学院副院长，博士生导师，国家级青年人才计划获得者。2016年毕业于美国加州大学洛杉矶分校(UCLA)。现阶段主要从事低功耗AI处理器、系统与编译器设计，存算芯片设计等科研工作。",
+    "email": "ldu@nju.edu.cn",
+    "homepage": "https://iscl.nju.edu.cn/main.psp",
+    "publications": [
+      {"title": "A 47.0Tb/s/mm 112Gb/s/pin PAM4 Single-Ended Transceiver", "venue": "IEEE ISSCC", "year": 2026},
+      {"title": "A 0.90-Tb/s/in 1.29-pJ/b Wireline Transceiver With Single-Ended Crosstalk Cancellation Coding Scheme", "venue": "IEEE Journal of Solid-State Circuits", "year": 2023}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465278"]
+  },
+  {
+    "id": "nju-杜源-0311",
+    "name": "杜源",
+    "title": "副教授",
+    "research_directions": ["高速芯片互联(SerDes、CDR、光/电IO)", "异构计算(光电融合、存内计算、专用领域加速器)", "AI辅助高速接口电路设计"],
+    "summary": "南京大学副教授，博士生导师，国家级青年人才计划获得者，IEEE高级会员。本科毕业于东南大学，硕士、博士均毕业于美国加州大学洛杉矶分校(UCLA)。2019年回国加入南京大学。",
+    "email": "yuandu@nju.edu.cn",
+    "homepage": "https://iscl.nju.edu.cn/",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465277"]
+  },
+  {
+    "id": "nju-范克彬-0312",
+    "name": "范克彬",
+    "title": "教授",
+    "research_directions": ["人工电磁材料", "毫米波、太赫兹波的调制与成像", "红外传感与探测"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师。中国科学技术大学本科学位，美国波士顿大学博士学位。长期从事人工电磁材料在太赫兹波以及红外波段的调控、探测与成像研究，发表SCI论文70多篇。",
+    "email": "kebin.fan@nju.edu.cn",
+    "publications": [
+      {"title": "A Silicon Membrane Optical Cavity for Long-Wave Infrared Superconducting Nanowire Single-Photon Detectors", "venue": "ACS Nano", "year": 2026},
+      {"title": "Photoswitchable exceptional points derived from bound states in the continuum", "venue": "Light: Science & Applications", "year": 2025},
+      {"title": "Physics-informed inverse design of programmable metasurfaces", "venue": "Advanced Science", "year": 2024},
+      {"title": "Mid-infrared superconducting nanowire single-photon detector enhanced by overcoupled metasurfaces", "venue": "Science Bulletin", "year": 2024}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=514599"]
+  },
+  {
+    "id": "nju-方晖-0313",
+    "name": "方晖",
+    "title": "教授",
+    "research_directions": ["语义分析", "数据挖掘", "无线传感器网络", "测量系统", "科研体制的探讨"],
+    "summary": "南京大学电子科学与工程学院教授。研究领域包括语义分析、数据挖掘、无线传感器网络、测量系统等，发表多篇信息计量学与科学计量学论文。",
+    "email": "fanghui@nju.edu.cn",
+    "publications": [
+      {"title": "A geometric counting method adaptive to the author number", "venue": "Journal of Informetrics", "year": 2023},
+      {"title": "A modification of citation-based journal indexes", "venue": "Scientometrics", "year": 2023},
+      {"title": "Analysis of the new scopus CiteScore", "venue": "Scientometrics", "year": 2021}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465275"]
+  },
+  {
+    "id": "nju-费再瑶-0314",
+    "name": "费再瑶",
+    "title": "教授",
+    "research_directions": ["二维材料器件与物理", "输运与光电性质研究", "功能范德华异质结的开发"],
+    "summary": "南京大学电子科学与工程学院教授。2011年本科毕业于中国科学技术大学，2017年获美国华盛顿大学物理学博士学位。2021年入选国家级青年人才。主要从事低维材料的输运与光电研究。",
+    "email": "zyfei@nju.edu.cn",
+    "publications": [
+      {"title": "Switching 2D Magnetic States via Pressure Tuning of Layer Stacking", "venue": "Nature Materials", "year": 2019},
+      {"title": "Gate-induced superconductivity in a monolayer topological insulator", "venue": "Science", "year": 2018},
+      {"title": "Two-Dimensional Itinerant Ferromagnetism in Atomically thin Fe3GeTe2", "venue": "Nature Materials", "year": 2018},
+      {"title": "Ferroelectric switching in a two-dimensional metal", "venue": "Nature", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=512370"]
+  },
+  {
+    "id": "nju-冯一军-0315",
+    "name": "冯一军",
+    "title": "教授",
+    "research_directions": ["人工电磁材料设计及其在光电子器件中的应用", "微波射频器件及其在无线通信技术中的应用", "天线与电磁波传播", "人工智能辅助电磁感知与调控"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授、博士生导师。1992年毕业于南京大学获博士学位。长期开展人工电磁材料及光电子器件应用、微波新材料器件和技术等方面研究，发表SCI、EI收录学术论文350余篇。",
+    "email": "yjfeng@nju.edu.cn",
+    "publications": [
+      {"title": "Multifunctional metasurfaces: From versatile electromagnetic control to array antenna applications", "venue": "Applied Physics Reviews", "year": 2026},
+      {"title": "Emulating Faraday Rotation with Nonmagnetic Time-Modulated Metasurface", "venue": "IEEE Transactions on Microwave Theory and Techniques", "year": 2025},
+      {"title": "Directional Janus Metasurface", "venue": "Advanced Materials", "year": 2019},
+      {"title": "Optical Properties of an Ionic-Type Phononic Crystal", "venue": "Science", "year": 1999}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465272"]
+  },
+  {
+    "id": "nju-葛云-0317",
+    "name": "葛云",
+    "title": "教授",
+    "research_directions": ["医学人工智能", "医学放射物理", "医学信号处理", "医学图像处理"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。1986.9-2001.8在东南大学生物医学工程专业本硕博学习，2001.9至今在南京大学工作。主持研究开发的多件相关技术产品获得国家药监局三类注册许可。",
+    "email": "geyun@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465267"]
+  },
+  {
+    "id": "nju-顾书林-0318",
+    "name": "顾书林",
+    "title": "教授",
+    "research_directions": ["宽禁带半导体(氧化锌、氮化镓)薄膜材料的外延生长、表征及器件应用"],
+    "summary": "南京大学物理系教授、博导，1995年获南京大学物理系理学博士学位。2001年起任南京大学物理系教授。主要研究宽禁带半导体薄膜材料的外延生长、表征及器件应用。",
+    "email": "slgu@nju.edu.cn",
+    "publications": [
+      {"title": "Fermi-level band filling and band-gap renormalization in ga-doped zno", "venue": "Applied Physics Letters", "year": 2005},
+      {"title": "Blue-yellow ZnO homostructural light-emitting diode realized by metalorganic chemical vapor deposition technique", "venue": "Applied Physics Letters", "year": 2006}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465265"]
+  },
+  {
+    "id": "nju-何爱军-0319",
+    "name": "何爱军",
+    "title": "副教授",
+    "research_directions": ["基于嵌入式系统的小型医疗仪器的开发", "生理信号非线性动力学分析", "医学超声"],
+    "summary": "南京大学电子科学与工程学院信息电子学系副教授、硕士生导师。2002年毕业于四川大学获工学博士学位。已发表学术论文30余篇，获得国家发明专利10余项。",
+    "email": "haj@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465260"]
+  },
+  {
+    "id": "nju-何道伟-0320",
+    "name": "何道伟",
+    "title": "副教授",
+    "research_directions": ["有机电子学", "二维材料高频器件", "柔性电子与电路集成"],
+    "summary": "南京大学电子科学与工程学院副教授，博士生导师，南京大学\"仲英青年学者\"。2015年获南京大学电子科学与技术博士学位。主要开展低维分子晶体、低维原子晶体等材料、器件与电路相关研究。",
+    "email": "hedwei@nju.edu.cn",
+    "publications": [
+      {"title": "Ultralow contact resistance in organic transistors via orbital hybridization", "venue": "Nature Communications", "year": 2023},
+      {"title": "Ultrahigh mobility and efficient charge injection in monolayer organic thin-film transistors on boron nitride", "venue": "Science Advances", "year": 2017},
+      {"title": "Two-dimensional quasi-freestanding molecular crystals for high-performance organic field-effect transistors", "venue": "Nature Communications", "year": 2014}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465259"]
+  },
+  {
+    "id": "nju-何亮-0321",
+    "name": "何亮",
+    "title": "教授",
+    "research_directions": ["半导体材料生长", "材料物理", "自旋电子器件"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。1995-2000年清华大学应用物理系和经济管理系学士学位，2005年获美国北卡罗来纳教堂山分校凝聚态物理博士学位。2014年入选国家级青年人才入职南京大学。",
+    "email": "heliang@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465257"]
+  },
+  {
+    "id": "nju-胡雪梅-0322",
+    "name": "胡雪梅",
+    "title": "副教授",
+    "research_directions": ["计算摄像学", "智能感知与成像探测", "超快高维成像", "计算光场成像"],
+    "summary": "南京大学电子学院副教授，博士生导师，毕业于清华大学成像与智能技术实验室。主要研究方向为计算摄像学，发表论文50余篇，入选中国科协青年人才托举工程。",
+    "email": "xuemeihu@nju.edu.cn",
+    "homepage": "https://computationalperceptionlab.github.io/",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464931"]
+  },
+  {
+    "id": "nju-胡泽华-0323",
+    "name": "胡泽华",
+    "title": "准聘副教授",
+    "research_directions": ["半导体微腔光学", "半导体光电器件物理", "超快载流子动力学"],
+    "summary": "南京大学电子科学与工程学院准聘副教授、博士生导师，主持首届青年科学基金B类。本科和博士分别毕业于南京大学物理系和新加坡国立大学物理系。研究兴趣是半导体与微纳结构的耦合相互作用、超快光生载流子动力学。",
+    "email": "zehuahu@nju.edu.cn",
+    "publications": [
+      {"title": "Designable excitonic effects in van der Waals crystals with exponentially growing thickness", "venue": "Nature Communications", "year": 2025},
+      {"title": "Energy Transfer Driven Brightening of MoS2 by Ultrafast Polariton Relaxation in Microcavity MoS2/hBN/WS2 Heterostructures", "venue": "Nature Communications", "year": 2024},
+      {"title": "Abnormal Near-Infrared Absorption in 2D Black Phosphorus Induced by Ag Nanoclusters Surface Functionalization", "venue": "Advanced Materials", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=633614"]
+  },
+  {
+    "id": "nju-黄晓林-0324",
+    "name": "黄晓林",
+    "title": "副教授",
+    "research_directions": ["信号处理", "数据分析"],
+    "summary": "南京大学电子科学与工程学院副教授。长期从事信号处理与数据分析，主持省、市级科研项目4项，发表学术论文40多篇，主编教材《数据科学导论：探索数据的奥秘》。",
+    "email": "xlhuang@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465255"]
+  },
+  {
+    "id": "nju-贾小氢-0327",
+    "name": "贾小氢",
+    "title": "教授",
+    "research_directions": ["超导电子学", "太赫兹电子学", "超导薄膜制备与应用", "超导单光子探测器和太赫兹探测器"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师，南京大学超导电子学研究所副所长。毕业于南京大学无线电物理专业获博士学位。长期从事超导薄膜材料及器件的研究和应用，发表SCI论文110余篇。",
+    "email": "xqjia@nju.edu.cn",
+    "publications": [
+      {"title": "A niobium nitride superconducting hot electron bolometer direct terahertz detector working at 9K", "venue": "Applied Physics Letters", "year": 2025},
+      {"title": "Thermal-property optimization dominated by the stoichiometric ratio in W-Si superconducting single-photon detectors", "venue": "Physical Review Applied", "year": 2024},
+      {"title": "Superconducting nanowire single-photon detectors with saturated quantum efficiency at 1550 nm on single-crystal diamond substrates", "venue": "Applied Physics Letters", "year": 2024}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465252"]
+  },
+  {
+    "id": "nju-姜田-0328",
+    "name": "姜田",
+    "title": "教授",
+    "research_directions": ["人工电磁材料和微波器件", "电磁场理论", "电磁功能材料"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授，重点学科实验室主任、创新团队带头人。毕业于南京大学无线电物理专业获博士学位。主要从事电磁功能材料和应用的研究，累计发表高水平学术论文60余篇。",
+    "email": "jt@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465249"]
+  },
+  {
+    "id": "nju-金飚兵-0329",
+    "name": "金飚兵",
+    "title": "教授",
+    "research_directions": ["太赫兹光谱技术", "超导电子学", "超导薄膜微波与太赫兹表征"],
+    "summary": "南京大学电子科学与工程学院教授、博导，电子科学与工程学院院长。建立了低温THz光谱测量系统，在MgB2超导薄膜的微波和太赫兹表征方面做出原创性工作，结果发表在PRL、PRB和APL。",
+    "email": "bbjin@nju.edu.cn",
+    "publications": [
+      {"title": "Anomalous coherence peak in the microwave conductivity of c-axis oriented MgB2 thin films", "venue": "Physical Review Letters", "year": 2003},
+      {"title": "THz surface impedance of epitaxial MgB2 thin film", "venue": "Applied Physics Letters", "year": 2005},
+      {"title": "Energy gap, penetration depth, and surface resistance of MgB2 thin films determined by microwave resonator measurements", "venue": "Physical Review B", "year": 2002}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465247"]
+  },
+  {
+    "id": "nju-寇君龙-0330",
+    "name": "寇君龙",
+    "title": "副教授",
+    "research_directions": ["光电AI计算硬件", "基于新型物理效应的电路", "面向智能传感系统的微纳光电子学传感器件和系统应用", "微纳结构调控的新型半导体光电有源器件"],
+    "summary": "南京大学副教授，博士生导师，国家级青年人才，紫金学者。南京大学材料物理与化学学士、硕士，加州理工学院电子工程博士。长期从事微纳结构调控的无源、有源光电材料及器件研究。",
+    "email": "jlkou@nju.edu.cn",
+    "publications": [
+      {"title": "Circuits Based on Exceptional Points Introduced by Unidirectional Coupling", "venue": "Nature Communications", "year": 2024},
+      {"title": "Daytime radiative cooling using near-black infrared emitters", "venue": "ACS Photonics", "year": 2017},
+      {"title": "Platform for enhanced light-graphene interaction length and miniaturizing fiber stereo devices", "venue": "Optica", "year": 2014}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=565572"]
+  },
+  {
+    "id": "nju-黎松林-0331",
+    "name": "黎松林",
+    "title": "教授",
+    "research_directions": ["后摩尔微纳电子学", "二维原子晶体生长及磁电器件", "存算一体", "量子输运"],
+    "summary": "南京大学电子科学与工程学院教授，2016年入选国家级青年人才项目。2009年获中科院物理研究所博士学位。课题组致力于发展深度摩尔时代的微纳电子学及探索凝聚态物质的新奇物理现象。",
+    "email": "sli@nju.edu.cn",
+    "homepage": "https://ee.nju.edu.cn/",
+    "publications": [
+      {"title": "Highly Oriented WS2 Monolayers for High-Performance Electronics", "venue": "Advanced Materials", "year": 2025},
+      {"title": "Oxidation kinetics and non-Marcusian charge transfer in dimensionally confined semiconductors", "venue": "Nature Communications", "year": 2023},
+      {"title": "Noninvasive digital etching of van der Waals semiconductors", "venue": "Nature Communications", "year": 2022},
+      {"title": "Thickness-Dependent Interfacial Coulomb Scattering in Atomically Thin Field-Effect Transistors", "venue": "Nano Letters", "year": 2013}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465244"]
+  },
+  {
+    "id": "nju-李勃-0333",
+    "name": "李勃",
+    "title": "副教授",
+    "research_directions": ["图像处理及人工智能算法、软件及系统", "纹理分析、亚像素测量、智能分类、深度学习", "工业自动化视觉解决方案"],
+    "summary": "南京大学电子学院副教授，兼南京汇川工业视觉技术开发有限公司总经理。深耕人工智能与图像处理领域，拥有15年以上学术研究与工业转化双重经验。获吴文俊人工智能科学技术进步奖。",
+    "email": "liboee@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465240"]
+  },
+  {
+    "id": "nju-李丽-0335",
+    "name": "李丽",
+    "title": "教授",
+    "research_directions": ["高性能计算芯片体系架构", "可重构计算", "智能计算加速芯片", "同态加密处理器", "三维片上网络设计方法", "抗辐照芯片设计"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师，南京大学微电子学院副院长。2002年毕业于合肥工业大学获博士学位。主要从事超大规模集成电路设计方面的研究，带领团队成功研制芯片多款并得到业界应用。",
+    "email": "lili@nju.edu.cn",
+    "publications": [
+      {"title": "An Efficient Accelerator for Multiple Convolutions From the Sparsity Perspective", "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems", "year": 2020},
+      {"title": "Efficient Successive Cancellation Stack Decoder for Polar Codes", "venue": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems", "year": 2019}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465235"]
+  },
+  {
+    "id": "nju-李杨-0336",
+    "name": "李杨",
+    "title": "副教授",
+    "research_directions": ["视觉深度感知与三维重建", "生物图像信息学"],
+    "summary": "南京大学电子科学与工程学院副教授，硕士生导师。2006年毕业于南京大学电子科学与工程系获工学博士学位。长期从事视觉环境感知、深度估计与重建等计算机视觉理论与应用课题研究。",
+    "email": "yogo@nju.edu.cn",
+    "homepage": "https://nju-ee.github.io/",
+    "publications": [
+      {"title": "MODE: Multi-view Omnidirectional Depth Estimation with 360° Cameras", "venue": "European Conference on Computer Vision (ECCV)", "year": 2022},
+      {"title": "Measure and model a 3-D space-variant PSF for fluorescence microscopy image deblurring", "venue": "Optics Express", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465233"]
+  },
+  {
+    "id": "nju-李昀-0337",
+    "name": "李昀",
+    "title": "教授",
+    "research_directions": ["有机光电器件与物理", "有机铁电功能器件", "有机人工神经元光电器件"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师。从事有机电子学研究工作，在Nat. Electron.、Nat. Mater.、Adv. Mater.等期刊发表SCI论文120余篇，共被引用5800余次。江苏省杰出青年基金获得者。",
+    "email": "yli@nju.edu.cn",
+    "homepage": "https://www.yunligroup.org",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465231"]
+  },
+  {
+    "id": "nju-林军-0339",
+    "name": "林军",
+    "title": "教授",
+    "research_directions": ["人工智能处理器设计", "领域专用RISC-V处理器设计", "基于FPGA的信号处理系统设计"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师，国家级青年人才。2015年毕业于美国Lehigh University获电子工程博士学位。在IEEE TVLSI/TCAS等集成电路设计领域主流杂志和顶尖会议发表论文100余篇。",
+    "email": "jlin@nju.edu.cn",
+    "publications": [
+      {"title": "A 124-Gb/s Decoder for Generalized Integrated Interleaved Codes", "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers", "year": 2019},
+      {"title": "Efficient hardware architectures for deep convolutional neural network", "venue": "IEEE Transactions on Circuits and Systems I: Regular Papers", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465229"]
+  },
+  {
+    "id": "nju-刘斌-0340",
+    "name": "刘斌",
+    "title": "教授",
+    "research_directions": ["宽带隙半导体材料及异质结构", "III族氮化物半导体光电子器件", "半导体固态照明与Micro-LED显示技术", "Si与III-V族电子与光电子集成技术"],
+    "summary": "南京大学电子学院教授、博导，入选国家高层次人才计划。兼任教育部光电材料与芯片技术工程中心主任。主要研究领域为III族氮化物半导体材料与器件、Micro-LED新型显示技术，发表论文250余篇。",
+    "email": "bliu@nju.edu.cn",
+    "publications": [
+      {"title": "Three-dimensional monolithic micro-LED display driven by atomically thin transistor matrix", "venue": "Nature Nanotechnology", "year": 2021},
+      {"title": "Hybrid Light Emitters and UV Solar-Blind Avalanche Photodiodes based on III-Nitride Semiconductors", "venue": "Advanced Materials", "year": 2020},
+      {"title": "Manipulable and Hybridized, Ultralow-Threshold Lasing in a Plasmonic Laser Using Elliptical InGaN/GaN Nanorods", "venue": "Advanced Functional Materials", "year": 2017}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465227"]
+  },
+  {
+    "id": "nju-刘波-0341",
+    "name": "刘波",
+    "title": "副教授",
+    "research_directions": ["超快磁探测与调控", "微纳器件高清磁光成像", "自旋电子材料开发"],
+    "summary": "南京大学至诚青年教授，博士生导师，海外高层次青年人才，紫金学者。本科毕业于东南大学，2019年获南京大学博士学位，随后赴德国柏林自由大学开展博士后研究。2023年入职南京大学。",
+    "email": "boliu@nju.edu.cn",
+    "publications": [
+      {"title": "Optical Control of RKKY Coupling and Perpendicular Magnetic Anisotropy in a Synthetic Antiferromagnet", "venue": "Nature Communications", "year": 2025},
+      {"title": "Microscopic Insights to Spin Transport-Driven Ultrafast Magnetization Dynamics in a Gd/Fe Bilayer", "venue": "Science Advances", "year": 2023},
+      {"title": "Light-Tunable Ferromagnetism in Atomically Thin Fe3GeTe2 Driven by Femtosecond Laser Pulse", "venue": "Physical Review Letters", "year": 2020}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=633621"]
+  },
+  {
+    "id": "nju-刘红星-0342",
+    "name": "刘红星",
+    "title": "教授",
+    "research_directions": ["智能信息处理", "生物医学信号处理", "生物医学电子学", "微弱信号检测技术"],
+    "summary": "南京大学电子科学与工程学院信息电子学系教授。1997年毕业于西安交通大学获博士学位。近年主要在智能信息处理及生物医学电子学交叉领域开展研究，主攻胎儿心电图技术，取得了显著成果。",
+    "email": "njhxliu@nju.edu.cn",
+    "publications": [
+      {"title": "BrainZ-BP: A Noninvasive Cuff-Less Blood Pressure Estimation Approach Leveraging Brain Bio-Impedance and Electrocardiogram", "venue": "IEEE Transactions on Instrumentation and Measurement", "year": 2024},
+      {"title": "A Novel Sleep Stage Contextual Refinement Algorithm Leveraging Conditional Random Fields", "venue": "IEEE Transactions on Instrumentation and Measurement", "year": 2022}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465225"]
+  },
+  {
+    "id": "nju-陆海-0343",
+    "name": "陆海",
+    "title": "教授",
+    "research_directions": ["GaN基高功率电子器件与电路", "宽禁带半导体紫外探测器", "新型氧化物透明薄膜晶体管与电路", "宽禁带半导体x射线及高能粒子探测器"],
+    "summary": "南京大学教授，博士生导师，国家杰出青年科学基金获得者、长江学者特聘教授。2003年在美国康奈尔大学获博士学位。主要从事宽禁带半导体材料与器件研究，是国际上富In氮化物半导体研究的开拓者。",
+    "email": "hailu@nju.edu.cn",
+    "homepage": "http://iiiv.nju.edu.cn",
+    "publications": [
+      {"title": "High-Performance 4H-SiC Schottky Photodiode With Semitransparent Grid-Electrode for EUV Detection", "venue": "IEEE Photonics Technology Letters", "year": 2020},
+      {"title": "Highly Enhanced Inductive Current Sustaining Capability and Avalanche Ruggedness in GaN p-i-n Diodes With Shallow Bevel Termination", "venue": "IEEE Electron Device Letters", "year": 2020}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465223"]
+  },
+  {
+    "id": "nju-马展-0346",
+    "name": "马展",
+    "title": "教授",
+    "research_directions": ["类脑视频通信", "视频编码", "计算摄像", "深度学习"],
+    "summary": "南京大学电子科学与工程学院教授、博导。2004年和2006年获华中科技大学学士和硕士学位，2011年获纽约大学博士学位。2014年获登峰计划支持加入南京大学。发表学术论文60余篇，被Google Scholar引用6000余次。",
+    "email": "mazhan@nju.edu.cn",
+    "homepage": "https://vision.nju.edu.cn",
+    "publications": [
+      {"title": "A Dual Camera System for High Spatiotemporal Resolution Video Acquisition", "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", "year": 2020},
+      {"title": "Fast intra mode decision for high-efficiency video coding (HEVC)", "venue": "IEEE Transactions on Circuits and Systems for Video Technology", "year": 2014}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465218"]
+  },
+  {
+    "id": "nju-马忠元-0347",
+    "name": "马忠元",
+    "title": "教授",
+    "research_directions": ["硅基半导体低维材料的可控生长和光电特性研究", "硅基神经形态器件的构建和性能优化", "类脑芯片的核心硬件开发和功能拓展"],
+    "summary": "南京大学电子科学与工程学院教授，博导。2002年获南京大学物理系凝聚态物理专业博士学位并留校任教。主要从事低维硅基半导体器件在闪存芯片、类脑芯片和三维神经网络构建中的应用。",
+    "email": "zyma@nju.edu.cn",
+    "publications": [
+      {"title": "Artificial synapse arrays based on SiOx/TiOx memristive crossbar with high uniformity for neuromorphic computing", "venue": "Applied Physics Letters", "year": 2022},
+      {"title": "3D NAND flash memory based on double-Layer NC-Si floating gate with high density of multilevel storage", "venue": "Nanomaterials", "year": 2022}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465216"]
+  },
+  {
+    "id": "nju-潘红兵-0348",
+    "name": "潘红兵",
+    "title": "教授",
+    "research_directions": ["类脑计算方法及芯片", "存算一体方法及芯片", "人工智能算法及硬件优化", "嵌入式智能系统", "可重构计算", "数字信号处理算法硬件优化", "CMOS传感器", "超大规模集成电路设计"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师，国家重点项目首席专家。2005年在南京大学物理学系微电子专业获工学博士学位。2018年提出了基于超大规模超小像素成像器件的光电存算一体方法。",
+    "email": "phb@nju.edu.cn",
+    "publications": [
+      {"title": "Leveraging Frequency Analysis for Image Denoising Network Pruning", "venue": "IEEE Transactions on Image Processing", "year": 2025},
+      {"title": "ONNXPruner: ONNX-Based General Model Pruning Adapter", "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence", "year": 2025}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465213"]
+  },
+  {
+    "id": "nju-潘力佳-0349",
+    "name": "潘力佳",
+    "title": "教授",
+    "research_directions": ["柔性压力/温度传感器，电子皮肤，可穿戴电子材料与器件", "触觉传感器件及系统", "生物医学电子器件", "折纸-剪纸电子学及软体机器人", "新原理超轻超薄阵列成像器件"],
+    "summary": "南京大学教授、博导，IEEE senior member。2018年获得国家杰出青年科学基金资助，作为第二完成人获2017年度国家自然科学二等奖。致力于聚合物电子材料和器件、电子皮肤器件、仿生感知领域研究。",
+    "email": "ljpan@nju.edu.cn",
+    "publications": [
+      {"title": "An ultra-sensitive resistive pressure sensor based on hollow-sphere microstructure induced elasticity in conducting polymer film", "venue": "Nature Communications", "year": 2014},
+      {"title": "High-throughput recovery of viscous oil spill by gel-coated mesh with reversibly interfacial properties", "venue": "Nature Sustainability", "year": 2023},
+      {"title": "Versatile self-assembled electrospun micropyramid arrays for high-performance on-skin devices", "venue": "Nature Communications", "year": 2022}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465209"]
+  },
+  {
+    "id": "nju-彭成磊-0350",
+    "name": "彭成磊",
+    "title": "副教授",
+    "research_directions": ["嵌入式智能系统", "图像处理与计算机视觉", "三维视觉与具身智能", "深度学习编译器", "软硬件协同设计"],
+    "summary": "南京大学电子科学与工程学院副教授，博士生导师。曾在美国斯坦福大学、加州大学圣克鲁兹分校从事访问学者研究。曾获中国计算机行业发展成就奖，2次获得国家级一流本科课程认定。",
+    "email": "pcl@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465206"]
+  },
+  {
+    "id": "nju-蒲殷-0351",
+    "name": "蒲殷",
+    "title": "教授",
+    "research_directions": ["微波段人工周期结构的电磁拓扑研究", "人工电磁周期结构的表征与制备", "基于超构材料的电磁吸收与透明"],
+    "summary": "南京大学电子科学与工程学院教授、博导，入选国家级青年人才。获江苏省优秀博士论文。主要从事电磁拓扑、人工周期结构对电磁波调控等研究，已在Nature、Nature Communications、Physical Review Letters等期刊发表论文30余篇。",
+    "email": "ypoo@nju.edu.cn",
+    "publications": [
+      {"title": "Bulk-disclination correspondence in topological crystalline insulators", "venue": "Nature", "year": 2021},
+      {"title": "Topological light-trapping on a dislocation", "venue": "Nature Communications", "year": 2018},
+      {"title": "Experimental Realization of Self-Guiding Unidirectional Electromagnetic Edge States", "venue": "Physical Review Letters", "year": 2011}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465204"]
+  },
+  {
+    "id": "nju-任芳芳-0353",
+    "name": "任芳芳",
+    "title": "教授",
+    "research_directions": ["微纳光子学结构", "半导体光电器件", "光电子学"],
+    "summary": "南京大学电子科学与工程学院教授、博导。2018.12至今任南京大学教授。2007年获南京大学物理系凝聚态物理专业博士学位。研究领域为光电子学，方向为微纳光子学结构、半导体光电器件。",
+    "email": "ffren@nju.edu.cn",
+    "publications": [
+      {"title": "Vertically emitting indium phosphide nanowire lasers", "venue": "Nano Letters", "year": 2018},
+      {"title": "Tailored emission properties of ZnTe/ZnTe:O/ZnO core-shell nanowires coupled with an Al plasmonic bowtie antenna array", "venue": "ACS Nano", "year": 2018},
+      {"title": "Split bull's eye shaped aluminum antenna for plasmon-enhanced nanometer scale germanium photodetector", "venue": "Nano Letters", "year": 2011}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465201"]
+  },
+  {
+    "id": "nju-沙金-0355",
+    "name": "沙金",
+    "title": "教授",
+    "research_directions": ["集成电路设计", "信道编码", "闪存纠错", "机器学习", "异构计算"],
+    "summary": "南京大学电子科学与工程学院教授。2007年毕业于南京大学获工学博士学位。近年主要开展集成电路设计、信道编码、闪存纠错、机器智能等方面的研究。IEEE高级会员，IEEE ACCESS副主编。",
+    "email": "shajin@nju.edu.cn",
+    "homepage": "http://ese.nju.edu.cn/jinlab",
+    "publications": [
+      {"title": "Multi-Gb/s LDPC Code Design and Implementation", "venue": "IEEE Transactions on VLSI Systems", "year": 2009},
+      {"title": "Decoder Design for RS-Based LDPC Codes", "venue": "IEEE Transactions on Circuits and Systems II", "year": 2009}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465195"]
+  },
+  {
+    "id": "nju-孙国柱-0360",
+    "name": "孙国柱",
+    "title": "教授",
+    "research_directions": ["超导量子计算与量子信息", "微波量子学", "超导电子学"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授、博士生导师。入选首批江苏省杰出青年基金、国家级青年人才、首批全国网信优秀人才，获得江苏省科学技术一等奖。主要从事超导量子比特及其在量子计算、微波量子学中的应用等方面的研究。",
+    "email": "gzsun@nju.edu.cn",
+    "publications": [
+      {"title": "Manipulations of a transmon qubit with a null-biased electro-optic fiber link", "venue": "Nature Communications", "year": 2025},
+      {"title": "Impedance matched Josephson parametric amplifier with a multisection λ/4 transmission line transformer", "venue": "Applied Physics Letters", "year": 2025},
+      {"title": "Photon number splitting in a multi-level transmon with different microwave photon sources", "venue": "Physical Review B", "year": 2025}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465185"]
+  },
+  {
+    "id": "nju-汤琨-0361",
+    "name": "汤琨",
+    "title": "副教授",
+    "research_directions": ["金刚石材料生长", "掺杂调控", "电子/量子器件"],
+    "summary": "南京大学电子科学与工程学院副教授，博士生导师。2006和2011年分别在南京大学匡亚明学院和物理学院获理学学士和工学博士学位。长期从事宽禁带/超宽禁带半导体材料与器件的研究工作，聚焦金刚石材料生长、掺杂调控、电子/量子器件等领域。",
+    "email": "ktang@nju.edu.cn",
+    "publications": [
+      {"title": "Implementation of a nitrogen-vacancy micro-pillar array in diamond for a quantum imaging application with improved sensitivity", "venue": "Optics Letters", "year": 2026},
+      {"title": "A Theoretical study on dopants substituted on the H-terminated surface regulating the threshold concentration of nitrogen for accelerating diamond growth", "venue": "Diamond and Related Materials", "year": 2024}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465184"]
+  },
+  {
+    "id": "nju-唐东明-0362",
+    "name": "唐东明",
+    "title": "",
+    "research_directions": [],
+    "summary": "南京大学电子科学与工程学院信息电子学系。个人主页信息有限。",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465181"]
+  },
+  {
+    "id": "nju-王枫秋-0366",
+    "name": "王枫秋",
+    "title": "教授",
+    "research_directions": ["低维材料及其异质体系的光学性质调控", "低维材料新颖光子功能器件", "超快激光器及应用"],
+    "summary": "南京大学电子科学与工程学院教授，美国光学学会会士(OPTICA Fellow)，IEEE资深会员。本科毕业于北京大学电子学系，博士毕业于英国剑桥大学工程系。围绕\"低维半导体光学性质调控及器件应用\"方向开展系列原创工作，发表论文170余篇。",
+    "email": "fwang@nju.edu.cn",
+    "homepage": "http://apl.nju.edu.cn",
+    "publications": [
+      {"title": "Wideband tuneable, nanotube mode-locked, fiber lasers", "venue": "Nature Nanotechnology", "year": 2008},
+      {"title": "A robust and tuneable mid-infrared optical switch enabled by bulk Dirac fermions", "venue": "Nature Communications", "year": 2017},
+      {"title": "Planar carbon nanotube-graphene hybrid films for high-performance broadband photodetectors", "venue": "Nature Communications", "year": 2015}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465175"]
+  },
+  {
+    "id": "nju-王华兵-0368",
+    "name": "王华兵",
+    "title": "教授",
+    "research_directions": ["超导电子学", "太赫兹辐射源与检测", "超导微波量子光学", "激光探针显微镜、约瑟夫森探针显微镜"],
+    "summary": "南京大学教授、博导，国家级领军人才，超导电子学研究所所长，紫金山实验室课题组负责人。于南京大学获得学士和博士学位。长期从事超导电子学研究，实现了0.1-2.0 THz可调连续波超导太赫兹源。",
+    "email": "hbwang@nju.edu.cn",
+    "homepage": "http://hbwang.nju.edu.cn/",
+    "publications": [
+      {"title": "Toroidic phase transitions in a direct-kagome artificial spin ice", "venue": "Nature Nanotechnology", "year": 2024},
+      {"title": "Integrated and DC-powered superconducting microcomb", "venue": "Nature Communications", "year": 2024},
+      {"title": "Ultra-broadband near-field Josephson microwave microscopy", "venue": "National Science Review", "year": 2024},
+      {"title": "Coherent Terahertz Emission of Intrinsic Josephson Junction Stacks in the Hot Spot Regime", "venue": "Physical Review Letters", "year": 2010}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465172"]
+  },
+  {
+    "id": "nju-王健-0369",
+    "name": "王健",
+    "title": "教授",
+    "research_directions": ["智能通信与网络", "智算网络", "移动自组织网络", "类脑神经元无线异构网络"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。2006年毕业于南京大学获博士学位。主要从事智能通信网络、移动自组织网络、智算网络、空间信息网络、多媒体通信与安全等方面研究，获江苏省科学技术奖等5项。",
+    "email": "wangjnju@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465170"]
+  },
+  {
+    "id": "nju-王军转-0370",
+    "name": "王军转",
+    "title": "教授",
+    "research_directions": ["后摩尔硅基器件和集成", "低维半导体芯片集成光谱仪"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师。2001年获得南京大学物理系微电子学与固体电子学学士学位，2008年获南京大学物理电子学博士学位。主要从事低维半导体光电器件研究，包括后摩尔硅纳米线器件集成、芯片集成光谱仪研究。",
+    "email": "wangjz@nju.edu.cn",
+    "publications": [
+      {"title": "Observation of Chiral and Slow Plasmons in Twisted Bilayer Graphene", "venue": "Nature", "year": 2022},
+      {"title": "On-Chip Measurement of Photoluminescence with High Sensitivity Monolithic Spectrometer", "venue": "Advanced Optical Materials", "year": 2020}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465167"]
+  },
+  {
+    "id": "nju-王科-0372",
+    "name": "王科",
+    "title": "教授",
+    "research_directions": ["氮化物半导体分子束外延生长技术", "氮化物半导体电子与光电子器件", "量子级联激光器", "深紫外发光器件", "GaN基二维空穴气与氮化物互补型集成电路"],
+    "summary": "南京大学电子学院教授，RIKEN客座研究员。2000年南京大学毕业，2007年英国Strathclyde大学博士。2018年起任南京大学电子学院教授，2020年获聘南京大学紫金学者，江苏省特聘教授。长期从事宽禁带半导体光电材料与器件研究。",
+    "email": "kewang@nju.edu.cn",
+    "publications": [
+      {"title": "P-type InGaN across the entire alloy composition range", "venue": "Applied Physics Letters", "year": 2013},
+      {"title": "Broadening mechanisms and self-consistent gain calculations for GaN quantum cascade laser structures", "venue": "Applied Physics Letters", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465165"]
+  },
+  {
+    "id": "nju-王肖沐-0375",
+    "name": "王肖沐",
+    "title": "教授",
+    "research_directions": ["二维材料晶体管和存储器等电子器件及器件物理", "中红外和纳米光子学及器件", "类脑计算及感知器件"],
+    "summary": "南京大学教授，博士生导师。2012年8月于香港中文大学电子工程系获博士学位，2015年入选国家级青年人才项目。2016年进入南京大学电子科学与工程学院。长期从事低维半导体光电材料与器件的前沿创新性研究。",
+    "email": "xiaomu.wang@nju.edu.cn",
+    "publications": [
+      {"title": "Highly Anisotropic and Robust Excitons in Monolayer Black Phosphorus", "venue": "Nature Nanotechnology", "year": 2015},
+      {"title": "High Responsivity Graphene/Silicon Heterostructure Waveguide Photodetectors", "venue": "Nature Photonics", "year": 2013},
+      {"title": "A spectrally tunable all-graphene-based flexible field-effect light-emitting device", "venue": "Nature Communications", "year": 2015}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465161"]
+  },
+  {
+    "id": "nju-王欣然-0376",
+    "name": "王欣然",
+    "title": "教授",
+    "research_directions": ["二维材料的可控制备与表征", "微纳电子与光电器件", "柔性电子学"],
+    "summary": "南京大学电子科学与工程学院、固体微结构国家重点实验室教授、博士生导师。2004年本科毕业于南京大学，2010年获美国斯坦福大学物理学博士学位。2013年获国家杰出青年基金资助。在Science、Nature、Nature子刊发表论文10余篇。",
+    "email": "xrwang@nju.edu.cn",
+    "homepage": "http://ese.nju.edu.cn/wang_lab",
+    "publications": [
+      {"title": "N-doping of graphene through electro-thermal reaction with ammonia", "venue": "Science", "year": 2009},
+      {"title": "Chemically Derived, Ultrasmooth Graphene Nanoribbon Semiconductors", "venue": "Science", "year": 2008},
+      {"title": "Graphene nanoribbons with smooth edges behave as quantum wires", "venue": "Nature Nanotechnology", "year": 2011}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465159"]
+  },
+  {
+    "id": "nju-王中风-0380",
+    "name": "王中风",
+    "title": "教授",
+    "research_directions": ["现代纠错码设计与实现", "高速有线和无线通信系统", "生物医学信号处理系统", "深度学习算法及硬件加速", "低功耗设计方法学", "容错集成电路设计", "硬件安全与集成电路设计"],
+    "summary": "南京大学电子科学与工程学院特聘教授、博导，国家特聘专家、IEEE Fellow和AAIA Fellow。2000年毕业于美国明尼苏达大学获博士学位。超大规模集成电路设计领域国际知名专家，发表500余篇学术论文，拥有中国和美国授权专利100余项。",
+    "email": "zfwang@nju.edu.cn",
+    "publications": [
+      {"title": "Low Complexity, High Speed Decoder Design for Quasi-Cyclic Low Density Parity Check Codes", "venue": "IEEE Transactions on VLSI Systems", "year": 2007},
+      {"title": "Fast Interpolation Architecture for Soft-Decision Decoding of Reed-Solomon Codes", "venue": "IEEE Transactions on VLSI Systems", "year": 2006}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465152"]
+  },
+  {
+    "id": "nju-吴敬波-0381",
+    "name": "吴敬波",
+    "title": "教授",
+    "research_directions": ["可编程太赫兹器件", "太赫兹光谱技术", "超导电子器件"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师，国家级青年人才，江苏省杰青获得者。于2005年、2008年、2012年在南京大学获得本科、硕士和博士学位。以第一/通信作者在Nature Communications、Science Advances、Light Science & Applications、Optica等期刊发表SCI论文30余篇。",
+    "email": "jbwu@nju.edu.cn",
+    "publications": [
+      {"title": "Broadband, transmissive, and cascadable terahertz programmable metasurface", "venue": "ACS Nano", "year": 2025},
+      {"title": "Independent polarization and phase control in liquid crystal programmable THz metasurfaces", "venue": "Optica", "year": 2025},
+      {"title": "Modulo-addition operation enables terahertz programmable metasurface for high-resolution two-dimensional beam steering", "venue": "Science Advances", "year": 2023},
+      {"title": "Directional terahertz holography with thermally active Janus metasurface", "venue": "Light: Science & Applications", "year": 2023}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465150"]
+  },
+  {
+    "id": "nju-伍瑞新-0383",
+    "name": "伍瑞新",
+    "title": "教授",
+    "research_directions": ["人工电磁材料的高频物性", "人工电磁材料器件设计与机器学习", "天线与电波传播"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授、博士生导师。1996年留校任教。2005年入选江苏省高校\"青蓝工程\"中青年学术带头人培养计划。主要从事人工电磁材料的微波物性、人工电磁材料应用、天线和电波传播等研究。",
+    "email": "rxwu@nju.edu.cn",
+    "publications": [
+      {"title": "A Multi-Resolution Machine Learning Paradigm for Pixelated Metasurface Design", "venue": "Laser & Photonics Reviews", "year": 2026},
+      {"title": "Invisible gateway by superscattering effect of metamaterials", "venue": "Physical Review Letters", "year": 2021}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465148"]
+  },
+  {
+    "id": "nju-谢臻达-0384",
+    "name": "谢臻达",
+    "title": "教授",
+    "research_directions": ["光电集成芯片器件", "无人机光量子网络", "非线性光学", "量子光学"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。长期从事光电集成芯片器件和无人机光量子网络的研究，2016年入选国家第十二批国家级青年人才项目，获2020年教育部自然科学一等奖。无人机纠缠光子分发成果入选2021年中国光学领域十大社会影响力事件。",
+    "email": "xiezhenda@nju.edu.cn",
+    "publications": [
+      {"title": "Optical-Relayed Entanglement Distribution Using Drones as Mobile Nodes", "venue": "Physical Review Letters", "year": 2021},
+      {"title": "Midinfrared Tunable Laser with Noncritical Frequency Matching in Box Resonator Geometry", "venue": "Physical Review Letters", "year": 2021},
+      {"title": "A chip-scale polarization-spatial-momentum quantum SWAP gate in silicon nanophotonics", "venue": "Nature Photonics", "year": 2023},
+      {"title": "Harnessing high-dimensional hyperentanglement through a biphoton frequency comb", "venue": "Nature Photonics", "year": 2015}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465147"]
+  },
+  {
+    "id": "nju-修向前-0387",
+    "name": "修向前",
+    "title": "教授",
+    "research_directions": ["GaN基Ⅲ族氮化物的衬底材料生长、性质和器件研究", "氢化物气相外延设备研制与应用", "超宽禁带半导体材料与器件研究"],
+    "summary": "南京大学电子科学与工程学院教授、博士生导师。2000年毕业于中国科学技术大学获理学博士学位。国家重点研发计划项目首席科学家。主要从事基于III族氮化物宽带隙半导体衬底材料与设备以及超宽禁带半导体材料与器件等的研究和应用。",
+    "email": "xqxiu@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465144"]
+  },
+  {
+    "id": "nju-徐骏-0388",
+    "name": "徐骏",
+    "title": "教授",
+    "research_directions": ["硅基纳米结构材料的可控制备", "硅基纳电子与光电子器件", "稀土掺杂功能薄膜与应用", "新型能源器件"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授、博士生导师。1995年毕业于南京大学获博士学位。2004年获得国家杰出青年基金，2009年入选教育部长江奖励计划特聘教授。主要从事纳米与非晶半导体材料与器件物理的研究，作为第二完成人获得2003年度国家自然科学二等奖。",
+    "email": "junxu@nju.edu.cn",
+    "publications": [
+      {"title": "Planar growth, integration and applications of semiconducting nanowires", "venue": "Advanced Materials", "year": 2020},
+      {"title": "The phosphorus and boron co-doping behaviors at nanoscale in Si nanocrystals/SiO2 multilayers", "venue": "Applied Physics Letters", "year": 2017}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465143"]
+  },
+  {
+    "id": "nju-徐岭-0389",
+    "name": "徐岭",
+    "title": "教授",
+    "research_directions": ["II-VI族半导体纳米晶体光电特性", "纳米硅、非晶硅材料光电特性", "硫系材料电学输运、相变性质研究"],
+    "summary": "南京大学电子科学与工程学院教授、博导。1985年南京大学物理系学士学位，1988年获中国科学院半导体所硕士学位，1999年取得南京大学物理系理学博士学位。致力于II-VI族半导体量子点、硫系材料、纳米硅、非晶硅材料的微结构及光电性质研究。",
+    "email": "xuling@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465141"]
+  },
+  {
+    "id": "nju-闫锋-0391",
+    "name": "闫锋",
+    "title": "",
+    "research_directions": [],
+    "summary": "南京大学电子科学与工程学院。个人主页信息有限。",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465140"]
+  },
+  {
+    "id": "nju-杨燚-0392",
+    "name": "杨燚",
+    "title": "教授",
+    "research_directions": ["微波吸收材料与技术", "磁性纳米膜微波物性研究", "微波测量技术", "磁性材料"],
+    "summary": "南京大学电子科学与工程学院教授。1994-1998南京大学物理系本科，1998-2003南京大学物理系凝聚态专业研究生。2012年起任南京大学电子科学与工程学院教授。",
+    "email": "malab@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465138"]
+  },
+  {
+    "id": "nju-叶建东-0393",
+    "name": "叶建东",
+    "title": "教授",
+    "research_directions": ["宽带隙氧化物半导体材料外延", "氧化物异质界面物理研究与光电信息功能器件应用", "超宽禁带氧化物功率器件研究"],
+    "summary": "南京大学电子科学与工程学院教授。2002年和2006年分别获南京大学理学学士和工学博士学位。长期从事氧化镓超宽禁带半导体材料与器件研究，主持国家重点研发计划、基金委杰青/重点/优青等。",
+    "email": "yejd@nju.edu.cn",
+    "publications": [
+      {"title": "Spin-polarized Wide Electron Slabs in Functionally Graded Polar Oxide Heterostructures", "venue": "Scientific Reports", "year": 2012},
+      {"title": "Tailored Emission Properties of ZnTe/ZnTe:O/ZnO Core-Shell Nanowires Coupled with an Al Plasmonic Bowtie Antenna Array", "venue": "ACS Nano", "year": 2018}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465136"]
+  },
+  {
+    "id": "nju-于耀-0394",
+    "name": "于耀",
+    "title": "副教授",
+    "research_directions": ["计算机视觉", "计算机图形学", "三维重建、人体姿态估计、形体重建"],
+    "summary": "南京大学电子科学与工程学院副教授、硕士生导师。2010年毕业于南京大学获博士学位。近年主要围绕三维重建、人体姿态估计、形体重建等方面开展研究工作，发表SCI、EI收录论文30余篇。",
+    "email": "allanyu@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465135"]
+  },
+  {
+    "id": "nju-余林蔚-0395",
+    "name": "余林蔚",
+    "title": "教授",
+    "research_directions": ["硅基微纳结构生长/增材制备", "柔性电子、人机界面与具身智能应用", "纳米线GAA-FET器件、三维集成与硅基量子计算"],
+    "summary": "南京大学电子科学与工程学院教授/博导。获国家杰出青年基金、国家海外高层次人才计划(青年项目)等资助。担任法国国家科学研究院终身职位研究员(CNRS-CR2)。以第一或通讯作者在Phys. Rev. Lett.、Science Advances、Nature Communications等期刊发表论文130余篇。",
+    "email": "yulinwei@nju.edu.cn",
+    "publications": [
+      {"title": "Step-necking growth of silicon nanowire channels for high performance field effect transistors", "venue": "Nature Communications", "year": 2025},
+      {"title": "Ultracompact single-nanowire-morphed grippers driven by vectorial Lorentz forces for dexterous robotic manipulations", "venue": "Nature Communications", "year": 2023},
+      {"title": "In-Plane Epitaxial Growth of Silicon Nanowires and Junction Formation on Si(100) Substrates", "venue": "Nano Letters", "year": 2014},
+      {"title": "An in-plane solid-liquid-solid growth mode for self-avoiding lateral silicon nanowires", "venue": "Physical Review Letters", "year": 2009}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465134"]
+  },
+  {
+    "id": "nju-袁杰-0396",
+    "name": "袁杰",
+    "title": "副教授",
+    "research_directions": ["医学成像(光声成像、超声成像、声速成像、弹性超声成像、X-CT成像)", "医学图像处理(智能诊断)", "计算机视觉(三维重建)"],
+    "summary": "南京大学电子科学与工程学院副教授，博士生导师。2003年获南京大学电子科学与工程系博士学位。研究方向包括医学成像、医学图像处理和计算机视觉，拥有大量授权发明专利。",
+    "email": "yuanjie@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465133"]
+  },
+  {
+    "id": "nju-岳涛-0397",
+    "name": "岳涛",
+    "title": "教授",
+    "research_directions": ["底层视觉", "高维光场计算采集与重建", "极限性能成像"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师，国家级青年人才，主要研究计算成像方法与重建技术。在Nat. Commun., IEEE TPAMI, IEEE TIP等期刊和会议发表60余篇学术论文，获中国电子学会技术发明一等奖(排名第三)。",
+    "email": "yuetao@nju.edu.cn",
+    "homepage": "https://computationalperceptionlab.github.io/",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465132"]
+  },
+  {
+    "id": "nju-张彩虹-0398",
+    "name": "张彩虹",
+    "title": "教授",
+    "research_directions": ["太赫兹科学与技术", "电磁超材料", "太赫兹成像及传感", "超导电子学"],
+    "summary": "南京大学电子科学与工程学院教授，博导，国家级青年人才优青获得者。分别于2005年、2010年在南京大学电子学院获得学士和博士学位。主要从事太赫兹科学与技术的应用研究，包括太赫兹光谱技术、非线性技术、成像、传感、超材料器件等。",
+    "email": "chzhang@nju.edu.cn",
+    "publications": [
+      {"title": "Photoswitchable exceptional points derived from bound states in the continuum", "venue": "Light: Science & Applications", "year": 2025},
+      {"title": "Terahertz nonlinear superconducting metamaterials", "venue": "Applied Physics Letters", "year": 2013},
+      {"title": "Low-loss terahertz metamaterial from superconducting niobium nitride films", "venue": "Optics Express", "year": 2012}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465128"]
+  },
+  {
+    "id": "nju-张蜡宝-0399",
+    "name": "张蜡宝",
+    "title": "教授",
+    "research_directions": ["光电探测器件，单光子探测技术", "超导电子学和新型超导电子器件", "智能感知和量子探测前沿交叉技术", "单光子激光雷达和激光通信等应用研究"],
+    "summary": "南京大学至诚特聘教授，入选国家级领军人才和青年人才。长期专注于超导单光子探测(SNSPD)及应用技术研究，研制出我国第一个超导纳米线单光子探测器件，助力SNSPD成果入选国家十一五重大科技成就展。",
+    "email": "lzhang@nju.edu.cn",
+    "homepage": "https://sspd.nju.edu.cn/",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465127"]
+  },
+  {
+    "id": "nju-张丽敏-0400",
+    "name": "张丽敏",
+    "title": "教授",
+    "research_directions": ["模拟IC与传感设计", "感知与应用", "主被动噪声控制", "机电工程"],
+    "summary": "南京大学电子科学与工程学院教授，博导。从事模拟IC与传感设计、鲨鱼仿生非接触微信号感知，有源噪声控制及其相关应用研究。主持国家预研项目3项，国家重点研发计划1项，国家基金委项目3项，拥有授权专利40余项，出版著作4部。",
+    "email": "lmzhang@nju.edu.cn",
+    "publications": [
+      {"title": "Exopeptidase-Assisted Nanopore Peptide Sequence Identification", "venue": "Nature Communications", "year": 2026},
+      {"title": "An improved method with high anti-interference ability for wearable R peak detection", "venue": "Innovation and Research in BioMedical Engineering", "year": 2020}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465125"]
+  },
+  {
+    "id": "nju-赵俊明-0403",
+    "name": "赵俊明",
+    "title": "教授",
+    "research_directions": ["面向应用的超材料电磁波调控材料与器件", "人工电磁吸波材料与结构", "有源可调控超结构在低RCS技术的应用探索", "变换光学、场变换方法及电磁波调控器件"],
+    "summary": "南京大学电子科学与工程学院电子工程系教授、博导，入选国家级青年人才计划、江苏省\"333工程\"第三层次人才。2003年获南京大学电子工程系学士，2009年硕博连读毕业。",
+    "email": "jmzhao@nju.edu.cn",
+    "publications": [
+      {"title": "Hybrid-Modulated Programmable Metasurface with Angular Stability for Precise Electromagnetic Wave Manipulation", "venue": "Laser & Photonics Reviews", "year": 2025},
+      {"title": "A Wide-angle Multi-Octave Broadband Waveplate Based on Field Transformation Approach", "venue": "Scientific Reports", "year": 2015}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464837"]
+  },
+  {
+    "id": "nju-赵康僆-0404",
+    "name": "赵康僆",
+    "title": "教授",
+    "research_directions": ["空间智能信息网络", "B5G/6G非地面网络", "空间网络仿真方法"],
+    "summary": "南京大学电子科学与工程学院教授/博导，南京大学天空地一体智能信息网络研究所副所长。分别于2003年和2014年在南京大学获得学士和博士学位。长期从事空间智能信息网络关键技术研究，发表论文70余篇。",
+    "publications": [
+      {"title": "Distributed Contact Plan Design for GNSSs", "venue": "IEEE Transactions on Aerospace and Electronic Systems", "year": 2020},
+      {"title": "Network Availability Maximization for Free-Space Optical Satellite Communications", "venue": "IEEE Wireless Communications Letters", "year": 2020}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464833"]
+  },
+  {
+    "id": "nju-赵清源-0405",
+    "name": "赵清源",
+    "title": "教授",
+    "research_directions": ["高性能超导探测器、成像器、数字电路的研制", "超导单光子相机", "光通信系统研制", "低温数字电路", "超导纳米线结构在超导量子计算机中的应用"],
+    "summary": "南京大学电子科学与工程学院教授，自然基金委杰出青年基金获得者，国家级青年人才。2014-2017在麻省理工学院RLE实验室做博士后。研究方向为高性能超导探测器、成像器、数字电路的研制及应用扩展。",
+    "email": "qyzhao@nju.edu.cn",
+    "homepage": "https://sccm.nju.edu.cn/",
+    "publications": [
+      {"title": "A compact multi-pixel superconducting nanowire single-photon detector array supporting gigabit space-to-ground communications", "venue": "Light: Science & Applications", "year": 2024},
+      {"title": "Readout-efficient superconducting nanowire single-photon imager with orthogonal time-amplitude multiplexing by hotspot quantization", "venue": "Nature Photonics", "year": 2023}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464825"]
+  },
+  {
+    "id": "nju-周峰-0408",
+    "name": "周峰",
+    "title": "副教授(特聘研究员)",
+    "research_directions": ["宽禁带半导体材料、器件与电路应用"],
+    "summary": "南京大学电子学院副教授(特聘研究员)，博士生导师，国家级青年人才，从事第三代宽禁带半导体技术研究，主持/参与国家科技重大专项、国家重点研发计划等。发表论文60余篇，授权/申请专利40余项。",
+    "email": "fengzhou@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=801080"]
+  },
+  {
+    "id": "nju-周海波-0409",
+    "name": "周海波",
+    "title": "教授",
+    "research_directions": ["网联无人驾驶与超脑智能交通", "类脑神经元6G移动通信网络", "超大规模低轨卫星组网与仿真"],
+    "summary": "南京大学电子科学与工程学院教授/博导，海外高层次青年人才，IEEE/IET Fellow。入选江苏省\"双创人才\"，江苏省杰出青年基金获得者，科睿唯安\"全球高被引学者\"。担任中国电子学会智慧交通分会副秘书长。",
+    "email": "haibozhou@nju.edu.cn",
+    "homepage": "https://ese.nju.edu.cn/yulab/main.psp",
+    "publications": [
+      {"title": "Evolutionary V2X Technologies Toward the Internet of Vehicles: Challenges and Opportunities", "venue": "Proceedings of the IEEE", "year": 2020},
+      {"title": "Towards Multi-Radio Vehicular Data Piping for Dynamic DSRC/TVWS Spectrum Sharing", "venue": "IEEE Journal on Selected Areas in Communications", "year": 2016}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464821"]
+  },
+  {
+    "id": "nju-周余-0410",
+    "name": "周余",
+    "title": "副教授",
+    "research_directions": ["三维视觉信息处理", "无标记人体运动捕捉", "视觉智能感知"],
+    "summary": "南京大学电子科学与工程学院副教授、硕士生导师。2008年毕业于南京大学获博士学位。近年主要开展三维视觉信息处理、无标记人体运动捕捉和视觉智能感知等方面的研究工作，发表SCI、EI收录论文30余篇。",
+    "email": "nackzhou@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464820"]
+  },
+  {
+    "id": "nju-周玉刚-0411",
+    "name": "周玉刚",
+    "title": "教授",
+    "research_directions": ["GaN基半导体材料与器件", "LED器件工艺与先进封装", "光电器件及系统的可靠性分析与寿命预测"],
+    "summary": "南京大学教授，博士生导师。1996-2001年南京大学物理系微电子专业获理学博士学位。曾在香港科技大学及企业工作，2013年起任南京大学教授。共发表SCI收录论文50多篇，获得专利10多项。",
+    "email": "ygzhou@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464819"]
+  },
+  {
+    "id": "nju-朱广浩-0413",
+    "name": "朱广浩",
+    "title": "教授",
+    "research_directions": ["激光技术与应用", "光子学器件"],
+    "summary": "南京大学电子科学与工程学院教授。1997年本科毕业于南京大学电子科学与工程系，2004年获美国康州大学博士学位。2011年入选江苏省\"六大人才高峰计划\"，2013年入选教育部\"新世纪优秀人才计划\"。",
+    "email": "ghzhu@nju.edu.cn",
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=464817"]
+  },
+  {
+    "id": "nju-王少尉-0374",
+    "name": "王少尉",
+    "title": "教授",
+    "research_directions": ["通信网络", "运筹学", "机器学习"],
+    "summary": "南京大学教授，博士生导师。担任IEEE Communications Magazine、IEEE Transactions on Wireless Communications等重要期刊编委，IEEE ICC、GLOBECOM等领域主席。主要研究方向为通信网络、运筹学和机器学习等。",
+    "email": "wangsw@nju.edu.cn",
+    "homepage": "https://ese.nju.edu.cn/wangsw/main.htm",
+    "publications": [
+      {"title": "QoS-Guaranteed Resource Allocation in Mobile Communications: A Stochastic Network Calculus Approach", "venue": "IEEE/ACM Transactions on Networking", "year": 2024},
+      {"title": "Toward Order Optimal Channel Access in Unknown Environments: An Online Learning Method", "venue": "IEEE Transactions on Communications", "year": 2024}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465163"]
+  },
+  {
+    "id": "nju-王学锋-0377",
+    "name": "王学锋",
+    "title": "教授",
+    "research_directions": ["自旋芯片原子级制造", "自旋电子材料与器件", "信息功能薄膜与集成"],
+    "summary": "南京大学至诚特聘教授，获基金委青A项目(原国家杰出青年科学基金)和优青项目资助，教育部新世纪优秀人才。2007年博士毕业于香港中文大学电子工程系。现任南京大学原子制造研究院副院长。",
+    "email": "xfwang@nju.edu.cn",
+    "homepage": "http://ese.nju.edu.cn/liff",
+    "publications": [
+      {"title": "Large-area non-stoichiometric phase transition in transition metal chalcogenide films", "venue": "Nature Materials", "year": 2026},
+      {"title": "Observation of giant non-reciprocal charge transport from quantum Hall states in a topological insulator", "venue": "Nature Materials", "year": 2024},
+      {"title": "Light-induced giant enhancement of nonreciprocal transport at KTaO3-based interfaces", "venue": "Nature Communications", "year": 2024}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465158"]
+  },
+  {
+    "id": "nju-王永磊-0378",
+    "name": "王永磊",
+    "title": "教授",
+    "research_directions": ["超导和自旋物性调控", "电子器件设计", "极低温电子学显微成像", "量子芯片集成测控"],
+    "summary": "南京大学电子科学与工程学院教授，博士生导师。2017年起任南京大学教授。长期致力于超导和自旋物性调控、电子器件设计，以及极低温电子学显微成像、量子芯片集成测控等研究。入选国家海外高层次青年人才、江苏省杰出青年。",
+    "email": "yongleiwang@nju.edu.cn",
+    "homepage": "http://ylwang.nju.edu.cn/",
+    "publications": [
+      {"title": "Rewritable Artificial Magnetic Charge Ice", "venue": "Science", "year": 2016},
+      {"title": "Toroidic phase transitions in a direct-kagome artificial spin ice", "venue": "Nature Nanotechnology", "year": 2024},
+      {"title": "Switchable geometric frustration in an artificial-spin-ice-superconductor hetero-system", "venue": "Nature Nanotechnology", "year": 2018},
+      {"title": "Superconducting diode effect via conformal-mapped nanoholes", "venue": "Nature Communications", "year": 2021}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465156"]
+  },
+  {
+    "id": "nju-王元庆-0379",
+    "name": "王元庆",
+    "title": "教授",
+    "research_directions": ["激光成像雷达与智能感知", "神经信号采集与脑机接口"],
+    "summary": "南京大学电子科学与工程学院教授、博导。曾任教育部某重点实验室副主任、CSIG\"三维成像与显示\"专业委员会第二任主任委员。在新型光电显示技术、激光成像雷达新体制、多模态感知等方面取得显著突破。获科教类奖7项，出版著作3部，发表论文百余篇。",
+    "email": "yqwang@nju.edu.cn",
+    "publications": [
+      {"title": "Subpixel three-dimensional laser imaging with a downscaled avalanche photodiode array using code division multiple access", "venue": "Communications Physics", "year": 2019},
+      {"title": "Robust real-time multi-user pupil detection and tracking under various illumination and large-scale head motion", "venue": "Computer Vision and Image Understanding", "year": 2011}
+    ],
+    "sources": ["http://ese.nju.edu.cn/_redirect?siteId=452&columnId=30446&articleId=465153"]
+  }
+]
